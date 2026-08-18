@@ -373,7 +373,7 @@ export default function GamePlayer() {
           {/* Progress Bar & Audio Time */}
           <div style={{ maxWidth: 580, margin: '0 auto 1.5rem' }}>
             <div className="progress-wrap">
-              <div className="progress-fill" style={{ width: `${progress}%` }} />
+              <div className="progress-fill" style={{ transform: `scaleX(${progress / 100})` }} />
             </div>
             <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.35rem' }}>
               <span>{fmt(currentTime)}</span>

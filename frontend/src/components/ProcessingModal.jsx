@@ -41,7 +41,7 @@ export default function ProcessingModal({ task, onClose }) {
             <p>{task?.message || 'กรุณารอสักครู่'}</p>
 
             <div className="progress-wrap" style={{ margin: '0 0 0.5rem' }}>
-              <div className="progress-fill" style={{ width: `${task?.progress ?? 0}%` }} />
+              <div className="progress-fill" style={{ transform: `scaleX(${(task?.progress ?? 0) / 100})` }} />
             </div>
             <span style={{ fontSize: '0.78rem', color: 'var(--text-muted)' }}>
               {task?.progress ?? 0}%

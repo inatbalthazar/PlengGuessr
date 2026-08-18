@@ -5,9 +5,34 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import SongTable from '../components/SongTable';
 import ProcessingModal from '../components/ProcessingModal';
 import { usePolling } from '../hooks/usePolling';
-import { RefreshCw } from 'lucide-react';
+import { RefreshCw, Lock, User, LogOut, Eye, EyeOff, ShieldAlert } from 'lucide-react';
 
 export default function Admin() {
+  // ---- Authentication state ----------------------------------------------
+  const [isAuthenticated, setIsAuthenticated] = useState(() => {
+    return sessionStorage.getItem('admin_authenticated') === 'true';
+  });
+  const [loginForm, setLoginForm] = useState({ username: '', password: '' });
+  const [loginError, setLoginError] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
+
+  const handleLogin = (e) => {
+    e.preventDefault();
+    setLoginError('');
+    if (loginForm.username.trim() === 'admin' && loginForm.password === '*Ts00244577') {
+      sessionStorage.setItem('admin_authenticated', 'true');
+      setIsAuthenticated(true);
+      setLoginForm({ username: '', password: '' });
+    } else {
+      setLoginError('ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง');
+    }
+  };
+
+  const handleLogout = () => {
+    sessionStorage.removeItem('admin_authenticated');
+    setIsAuthenticated(false);
+  };
+
   // ---- Song list --------------------------------------------------------
   const [songs, setSongs] = useState([]);
   const [loadingSongs, setLoadingSongs] = useState(true);
@@ -40,26 +65,30 @@ export default function Admin() {
 
   // ---- Fetch handlers ---------------------------------------------------
   const fetchSongs = useCallback(async () => {
+    if (!isAuthenticated) return;
     try {
       const res = await fetch('/api/songs');
       const data = await res.json();
       setSongs(data || []);
     } catch {}
     setLoadingSongs(false);
-  }, []);
+  }, [isAuthenticated]);
 
   const fetchPlaylists = useCallback(async () => {
+    if (!isAuthenticated) return;
     try {
       const res = await fetch('/api/custom-playlists');
       const data = await res.json();
       setPlaylists(data || []);
     } catch {}
-  }, []);
+  }, [isAuthenticated]);
 
   useEffect(() => {
-    fetchSongs();
-    fetchPlaylists();
-  }, [fetchSongs, fetchPlaylists]);
+    if (isAuthenticated) {
+      fetchSongs();
+      fetchPlaylists();
+    }
+  }, [isAuthenticated, fetchSongs, fetchPlaylists]);
 
   // ---- Poll task status -------------------------------------------------
   usePolling(
@@ -222,10 +251,100 @@ export default function Admin() {
   };
 
   // -----------------------------------------------------------------------
+  if (!isAuthenticated) {
+    return (
+      <div style={{ maxWidth: 420, margin: '3rem auto 0', padding: '0 1rem' }}>
+        <div className="card" style={{ textAlign: 'center', padding: '2.5rem 2rem' }}>
+          <div style={{
+            width: 60, height: 60, borderRadius: '50%',
+            background: 'rgba(99, 102, 241, 0.15)', border: '1px solid rgba(99, 102, 241, 0.3)',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            margin: '0 auto 1.25rem', color: '#818cf8'
+          }}>
+            <Lock size={28} />
+          </div>
+
+          <h2 style={{ fontSize: '1.5rem', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '0.35rem' }}>
+            เข้าสู่ระบบผู้ดูแลระบบ
+          </h2>
+          <p style={{ color: 'var(--text-secondary)', fontSize: '0.875rem', marginBottom: '1.75rem' }}>
+            กรุณายืนยันตัวตนเพื่อเข้าถึงส่วนจัดการ Admin
+          </p>
+
+          {loginError && (
+            <div className="alert alert-error" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', textAlign: 'left' }}>
+              <ShieldAlert size={18} style={{ flexShrink: 0 }} />
+              <span>{loginError}</span>
+            </div>
+          )}
+
+          <form onSubmit={handleLogin}>
+            <div className="form-group" style={{ textAlign: 'left', marginBottom: '1.15rem' }}>
+              <label className="form-label" style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                <User size={15} /> ชื่อผู้ใช้ (Username)
+              </label>
+              <input
+                type="text"
+                className="form-input"
+                placeholder="กรอกชื่อผู้ใช้..."
+                value={loginForm.username}
+                onChange={(e) => setLoginForm({ ...loginForm, username: e.target.value })}
+                required
+                autoFocus
+              />
+            </div>
+
+            <div className="form-group" style={{ textAlign: 'left', marginBottom: '1.5rem' }}>
+              <label className="form-label" style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                <Lock size={15} /> รหัสผ่าน (Password)
+              </label>
+              <div style={{ position: 'relative' }}>
+                <input
+                  type={showPassword ? 'text' : 'password'}
+                  className="form-input"
+                  placeholder="กรอกรหัสผ่าน..."
+                  value={loginForm.password}
+                  onChange={(e) => setLoginForm({ ...loginForm, password: e.target.value })}
+                  required
+                  style={{ paddingRight: '2.5rem' }}
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowPassword(!showPassword)}
+                  style={{
+                    position: 'absolute', right: '0.75rem', top: '50%', transform: 'translateY(-50%)',
+                    background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', display: 'flex'
+                  }}
+                  tabIndex={-1}
+                >
+                  {showPassword ? <EyeOff size={18} /> : <Eye size={18} />}
+                </button>
+              </div>
+            </div>
+
+            <button type="submit" className="btn btn-primary" style={{ width: '100%', padding: '0.75rem', fontSize: '1rem' }}>
+              🔑 เข้าสู่ระบบ Admin
+            </button>
+          </form>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div>
       {/* Header */}
-      <div className="page-header">
+      <div className="page-header" style={{ position: 'relative' }}>
+        <div style={{ position: 'absolute', right: 0, top: 0 }}>
+          <button
+            type="button"
+            className="btn btn-secondary btn-sm"
+            onClick={handleLogout}
+            style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', color: '#fb7185', borderColor: 'rgba(244, 63, 94, 0.3)' }}
+          >
+            <LogOut size={15} /> ออกจากระบบ
+          </button>
+        </div>
         <h1 className="page-title">⚙️ Admin Panel</h1>
         <p className="page-subtitle">จัดการคลังเพลง และสร้างหมวดหมู่ Quiz / Playlist สำหรับเล่นเกม</p>
       </div>
