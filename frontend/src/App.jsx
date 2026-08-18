@@ -15,11 +15,11 @@ function Navbar() {
       <div className="navbar-links">
         <Link to="/" className={`nav-link ${loc.pathname === '/' ? 'active' : ''}`}>
           <Music2 size={15} />
-          เล่นเกม
+          Home
         </Link>
         <Link to="/admin" className={`nav-link ${loc.pathname === '/admin' ? 'active' : ''}`}>
           <Settings size={15} />
-          Admin
+          Login
         </Link>
       </div>
     </nav>

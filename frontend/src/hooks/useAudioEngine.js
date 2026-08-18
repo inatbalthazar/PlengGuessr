@@ -10,7 +10,7 @@
 import { useState, useRef, useCallback, useEffect } from 'react';
 
 const STEMS = ['drums', 'bass', 'other', 'vocals'];
-const INITIAL_MUTED = { drums: false, bass: true, other: true, vocals: true };
+const INITIAL_MUTED = { drums: true, bass: false, other: true, vocals: true };
 
 export function useAudioEngine() {
   const [isLoading,  setIsLoading]  = useState(false);
