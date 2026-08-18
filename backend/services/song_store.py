@@ -28,13 +28,13 @@ import re
 import urllib.request
 import urllib.parse
 
-def fetch_itunes_cover(artist: str, title: str) -> str:
-    """Fetch high-res album cover URL from iTunes Search API (returns empty string if unavailable)."""
-    query = f"{artist} {title}".strip()
+def _query_itunes(query: str) -> str | None:
+    if not query.strip():
+        return None
     url = f"https://itunes.apple.com/search?term={urllib.parse.quote(query)}&entity=song&limit=1"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
     try:
-        with urllib.request.urlopen(req, timeout=5) as resp:
+        with urllib.request.urlopen(req, timeout=4) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             results = data.get("results", [])
             if results and "artworkUrl100" in results[0]:
@@ -42,6 +42,25 @@ def fetch_itunes_cover(artist: str, title: str) -> str:
                 return art.replace("100x100bb", "600x600bb")
     except Exception:
         pass
+    return None
+
+
+def fetch_itunes_cover(artist: str, title: str) -> str:
+    """Fetch high-res album cover URL from iTunes Search API with smart query fallbacks."""
+    main_artist = artist.split(",")[0].split("&")[0].split("feat")[0].strip()
+    clean_title = re.sub(r"\(.*?\)|\[.*?\]|- Radio Edit|- Remix", "", title, flags=re.IGNORECASE).strip()
+
+    queries = [
+        f"{artist} {title}",
+        f"{main_artist} {clean_title}",
+        f"{main_artist} {title}",
+        f"{clean_title}",
+    ]
+
+    for q in queries:
+        art = _query_itunes(q)
+        if art:
+            return art
     return ""
 
 
