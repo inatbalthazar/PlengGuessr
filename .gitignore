@@ -1,0 +1,51 @@
+# Dependencies & Environments
+.venv/
+venv/
+env/
+ENV/
+node_modules/
+frontend/node_modules/
+
+# Build & Dist
+dist/
+dist-ssr/
+frontend/dist/
+build/
+*.egg-info/
+
+# Python Cache & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.local
+
+# Temporary Processing Files (Demucs & Audio Work Directories)
+frontend/public/audio/_work_*
+frontend/public/audio/_demucs_tmp_*
+*.tmp
+*.log
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS System Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2158 @@
+[
+  {
+    "id": "567de669",
+    "title": "Stay With Me",
+    "artist": "CHANYEOL, PUNCH",
+    "stems": {
+      "drums": "/audio/567de669/drums.mp3",
+      "bass": "/audio/567de669/bass.mp3",
+      "other": "/audio/567de669/other.mp3",
+      "vocals": "/audio/567de669/vocals.mp3"
+    }
+  },
+  {
+    "id": "1de48d33",
+    "title": "Say Yes",
+    "artist": "Loco, Punch",
+    "stems": {
+      "drums": "/audio/1de48d33/drums.mp3",
+      "bass": "/audio/1de48d33/bass.mp3",
+      "other": "/audio/1de48d33/other.mp3",
+      "vocals": "/audio/1de48d33/vocals.mp3"
+    }
+  },
+  {
+    "id": "a49ff1a5",
+    "title": "DDU-DU DDU-DU",
+    "artist": "BLACKPINK",
+    "stems": {
+      "drums": "/audio/a49ff1a5/drums.mp3",
+      "bass": "/audio/a49ff1a5/bass.mp3",
+      "other": "/audio/a49ff1a5/other.mp3",
+      "vocals": "/audio/a49ff1a5/vocals.mp3"
+    }
+  },
+  {
+    "id": "7ecc992d",
+    "title": "Replay",
+    "artist": "SHINee",
+    "stems": {
+      "drums": "/audio/7ecc992d/drums.mp3",
+      "bass": "/audio/7ecc992d/bass.mp3",
+      "other": "/audio/7ecc992d/other.mp3",
+      "vocals": "/audio/7ecc992d/vocals.mp3"
+    }
+  },
+  {
+    "id": "cb3e35db",
+    "title": "Gee",
+    "artist": "Girls' Generation",
+    "stems": {
+      "drums": "/audio/cb3e35db/drums.mp3",
+      "bass": "/audio/cb3e35db/bass.mp3",
+      "other": "/audio/cb3e35db/other.mp3",
+      "vocals": "/audio/cb3e35db/vocals.mp3"
+    }
+  },
+  {
+    "id": "563db822",
+    "title": "FIFTY FIFTY",
+    "artist": "Cupid",
+    "stems": {
+      "drums": "/audio/563db822/drums.mp3",
+      "bass": "/audio/563db822/bass.mp3",
+      "other": "/audio/563db822/other.mp3",
+      "vocals": "/audio/563db822/vocals.mp3"
+    }
+  },
+  {
+    "id": "7a1bcf8f",
+    "title": "Next Level",
+    "artist": "Naespa",
+    "stems": {
+      "drums": "/audio/7a1bcf8f/drums.mp3",
+      "bass": "/audio/7a1bcf8f/bass.mp3",
+      "other": "/audio/7a1bcf8f/other.mp3",
+      "vocals": "/audio/7a1bcf8f/vocals.mp3"
+    }
+  },
+  {
+    "id": "15452c8c",
+    "title": "Blood Sweat & Tears",
+    "artist": "BTS",
+    "stems": {
+      "drums": "/audio/15452c8c/drums.mp3",
+      "bass": "/audio/15452c8c/bass.mp3",
+      "other": "/audio/15452c8c/other.mp3",
+      "vocals": "/audio/15452c8c/vocals.mp3"
+    }
+  },
+  {
+    "id": "b12c97a6",
+    "title": "EYES NOSE LIPS",
+    "artist": "TAEYANG ",
+    "stems": {
+      "drums": "/audio/b12c97a6/drums.mp3",
+      "bass": "/audio/b12c97a6/bass.mp3",
+      "other": "/audio/b12c97a6/other.mp3",
+      "vocals": "/audio/b12c97a6/vocals.mp3"
+    }
+  },
+  {
+    "id": "6386418a",
+    "title": "ส่วนต่าง (do it without me)",
+    "artist": "BOWKYLION",
+    "stems": {
+      "drums": "/audio/6386418a/drums.mp3",
+      "bass": "/audio/6386418a/bass.mp3",
+      "other": "/audio/6386418a/other.mp3",
+      "vocals": "/audio/6386418a/vocals.mp3"
+    }
+  },
+  {
+    "id": "89cddfae",
+    "title": "เพลงรักเพลงแรก - Blooming",
+    "artist": "LANDOKMAI",
+    "stems": {
+      "drums": "/audio/89cddfae/drums.mp3",
+      "bass": "/audio/89cddfae/bass.mp3",
+      "other": "/audio/89cddfae/other.mp3",
+      "vocals": "/audio/89cddfae/vocals.mp3"
+    }
+  },
+  {
+    "id": "33efd723",
+    "title": "Jeep",
+    "artist": "Whatcharawalee",
+    "stems": {
+      "drums": "/audio/33efd723/drums.mp3",
+      "bass": "/audio/33efd723/bass.mp3",
+      "other": "/audio/33efd723/other.mp3",
+      "vocals": "/audio/33efd723/vocals.mp3"
+    }
+  },
+  {
+    "id": "9662b9c1",
+    "title": "จะบอกเธอว่ารัก",
+    "artist": "The Parkinson",
+    "stems": {
+      "drums": "/audio/9662b9c1/drums.mp3",
+      "bass": "/audio/9662b9c1/bass.mp3",
+      "other": "/audio/9662b9c1/other.mp3",
+      "vocals": "/audio/9662b9c1/vocals.mp3"
+    }
+  },
+  {
+    "id": "c03cbd5e",
+    "title": "รออยู่ตรงนี้",
+    "artist": "Hum",
+    "stems": {
+      "drums": "/audio/c03cbd5e/drums.mp3",
+      "bass": "/audio/c03cbd5e/bass.mp3",
+      "other": "/audio/c03cbd5e/other.mp3",
+      "vocals": "/audio/c03cbd5e/vocals.mp3"
+    }
+  },
+  {
+    "id": "37c7b2a7",
+    "title": "รถของเล่น",
+    "artist": "Tiger Band",
+    "stems": {
+      "drums": "/audio/37c7b2a7/drums.mp3",
+      "bass": "/audio/37c7b2a7/bass.mp3",
+      "other": "/audio/37c7b2a7/other.mp3",
+      "vocals": "/audio/37c7b2a7/vocals.mp3"
+    }
+  },
+  {
+    "id": "e2d31687",
+    "title": "ເລິກ ເລິກ",
+    "artist": "CELLS",
+    "stems": {
+      "drums": "/audio/e2d31687/drums.mp3",
+      "bass": "/audio/e2d31687/bass.mp3",
+      "other": "/audio/e2d31687/other.mp3",
+      "vocals": "/audio/e2d31687/vocals.mp3"
+    }
+  },
+  {
+    "id": "a8b56fc3",
+    "title": "SORRY",
+    "artist": "DREAMGALS,MILLI,Flower.far,GALCHANIE",
+    "stems": {
+      "drums": "/audio/a8b56fc3/drums.mp3",
+      "bass": "/audio/a8b56fc3/bass.mp3",
+      "other": "/audio/a8b56fc3/other.mp3",
+      "vocals": "/audio/a8b56fc3/vocals.mp3"
+    }
+  },
+  {
+    "id": "4e131d57",
+    "title": "ดอกไม้ที่รอฝน (spring)",
+    "artist": "THE TOYS,NONT TANONT",
+    "stems": {
+      "drums": "/audio/4e131d57/drums.mp3",
+      "bass": "/audio/4e131d57/bass.mp3",
+      "other": "/audio/4e131d57/other.mp3",
+      "vocals": "/audio/4e131d57/vocals.mp3"
+    }
+  },
+  {
+    "id": "366a4d7a",
+    "title": "จำนน (White Flag) - Live Session",
+    "artist": "NONT TANONT,Jeff Satur",
+    "stems": {
+      "drums": "/audio/366a4d7a/drums.mp3",
+      "bass": "/audio/366a4d7a/bass.mp3",
+      "other": "/audio/366a4d7a/other.mp3",
+      "vocals": "/audio/366a4d7a/vocals.mp3"
+    }
+  },
+  {
+    "id": "0f715fb4",
+    "title": "ความรักทำให้คนตาบอด",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/0f715fb4/drums.mp3",
+      "bass": "/audio/0f715fb4/bass.mp3",
+      "other": "/audio/0f715fb4/other.mp3",
+      "vocals": "/audio/0f715fb4/vocals.mp3"
+    }
+  },
+  {
+    "id": "7fbbc570",
+    "title": "อากาศ",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/7fbbc570/drums.mp3",
+      "bass": "/audio/7fbbc570/bass.mp3",
+      "other": "/audio/7fbbc570/other.mp3",
+      "vocals": "/audio/7fbbc570/vocals.mp3"
+    }
+  },
+  {
+    "id": "3bfab77f",
+    "title": "วันครบเลิก",
+    "artist": "NONT TANONT",
+    "stems": {
+      "drums": "/audio/3bfab77f/drums.mp3",
+      "bass": "/audio/3bfab77f/bass.mp3",
+      "other": "/audio/3bfab77f/other.mp3",
+      "vocals": "/audio/3bfab77f/vocals.mp3"
+    }
+  },
+  {
+    "id": "5708b919",
+    "title": "ปลายทาง",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/5708b919/drums.mp3",
+      "bass": "/audio/5708b919/bass.mp3",
+      "other": "/audio/5708b919/other.mp3",
+      "vocals": "/audio/5708b919/vocals.mp3"
+    }
+  },
+  {
+    "id": "acd7a3b9",
+    "title": "ความซื่อสัตย์",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/acd7a3b9/drums.mp3",
+      "bass": "/audio/acd7a3b9/bass.mp3",
+      "other": "/audio/acd7a3b9/other.mp3",
+      "vocals": "/audio/acd7a3b9/vocals.mp3"
+    }
+  },
+  {
+    "id": "112378f3",
+    "title": "ไกล",
+    "artist": "Musketeers",
+    "stems": {
+      "drums": "/audio/112378f3/drums.mp3",
+      "bass": "/audio/112378f3/bass.mp3",
+      "other": "/audio/112378f3/other.mp3",
+      "vocals": "/audio/112378f3/vocals.mp3"
+    }
+  },
+  {
+    "id": "a6b098b7",
+    "title": "ลงใจ",
+    "artist": "BOWKYLION",
+    "stems": {
+      "drums": "/audio/a6b098b7/drums.mp3",
+      "bass": "/audio/a6b098b7/bass.mp3",
+      "other": "/audio/a6b098b7/other.mp3",
+      "vocals": "/audio/a6b098b7/vocals.mp3"
+    }
+  },
+  {
+    "id": "0a977ba8",
+    "title": "ขี้หึง",
+    "artist": "Silly Fools",
+    "stems": {
+      "drums": "/audio/0a977ba8/drums.mp3",
+      "bass": "/audio/0a977ba8/bass.mp3",
+      "other": "/audio/0a977ba8/other.mp3",
+      "vocals": "/audio/0a977ba8/vocals.mp3"
+    }
+  },
+  {
+    "id": "e927d415",
+    "title": "ดูดี",
+    "artist": "Polycat",
+    "stems": {
+      "drums": "/audio/e927d415/drums.mp3",
+      "bass": "/audio/e927d415/bass.mp3",
+      "other": "/audio/e927d415/other.mp3",
+      "vocals": "/audio/e927d415/vocals.mp3"
+    }
+  },
+  {
+    "id": "34f5f194",
+    "title": "นาฬิกาตาย",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/34f5f194/drums.mp3",
+      "bass": "/audio/34f5f194/bass.mp3",
+      "other": "/audio/34f5f194/other.mp3",
+      "vocals": "/audio/34f5f194/vocals.mp3"
+    }
+  },
+  {
+    "id": "920d3c69",
+    "title": "พูดในใจ",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/920d3c69/drums.mp3",
+      "bass": "/audio/920d3c69/bass.mp3",
+      "other": "/audio/920d3c69/other.mp3",
+      "vocals": "/audio/920d3c69/vocals.mp3"
+    }
+  },
+  {
+    "id": "9934f428",
+    "title": "ผิดที่ไว้ใจ",
+    "artist": "Silly Fools",
+    "stems": {
+      "drums": "/audio/9934f428/drums.mp3",
+      "bass": "/audio/9934f428/bass.mp3",
+      "other": "/audio/9934f428/other.mp3",
+      "vocals": "/audio/9934f428/vocals.mp3"
+    }
+  },
+  {
+    "id": "a8f936fe",
+    "title": "หวั่นไหว",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/a8f936fe/drums.mp3",
+      "bass": "/audio/a8f936fe/bass.mp3",
+      "other": "/audio/a8f936fe/other.mp3",
+      "vocals": "/audio/a8f936fe/vocals.mp3"
+    }
+  },
+  {
+    "id": "c995f845",
+    "title": "งมงาย",
+    "artist": "Bodyslam",
+    "stems": {
+      "drums": "/audio/c995f845/drums.mp3",
+      "bass": "/audio/c995f845/bass.mp3",
+      "other": "/audio/c995f845/other.mp3",
+      "vocals": "/audio/c995f845/vocals.mp3"
+    }
+  },
+  {
+    "id": "ca5d5a96",
+    "title": "ลืมไปแล้วว่าลืมยังไง (Fade)",
+    "artist": "Jeff Satur",
+    "stems": {
+      "drums": "/audio/ca5d5a96/drums.mp3",
+      "bass": "/audio/ca5d5a96/bass.mp3",
+      "other": "/audio/ca5d5a96/other.mp3",
+      "vocals": "/audio/ca5d5a96/vocals.mp3"
+    }
+  },
+  {
+    "id": "dbea51fe",
+    "title": "รักแรก (First Love) [เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious]",
+    "artist": "NONT TANONT",
+    "stems": {
+      "drums": "/audio/dbea51fe/drums.mp3",
+      "bass": "/audio/dbea51fe/bass.mp3",
+      "other": "/audio/dbea51fe/other.mp3",
+      "vocals": "/audio/dbea51fe/vocals.mp3"
+    }
+  },
+  {
+    "id": "8df7ed93",
+    "title": "ซ่อน(ไม่)หา",
+    "artist": "Jeff Satur",
+    "stems": {
+      "drums": "/audio/8df7ed93/drums.mp3",
+      "bass": "/audio/8df7ed93/bass.mp3",
+      "other": "/audio/8df7ed93/other.mp3",
+      "vocals": "/audio/8df7ed93/vocals.mp3"
+    }
+  },
+  {
+    "id": "2b95b069",
+    "title": "เส้นบางๆ",
+    "artist": "Indigo",
+    "stems": {
+      "drums": "/audio/2b95b069/drums.mp3",
+      "bass": "/audio/2b95b069/bass.mp3",
+      "other": "/audio/2b95b069/other.mp3",
+      "vocals": "/audio/2b95b069/vocals.mp3"
+    }
+  },
+  {
+    "id": "bf47cb5b",
+    "title": "ถ้าเธอไม่อยากโชคร้ายเรื่องความรัก",
+    "artist": "NONT TANONT,Ink Waruntorn",
+    "stems": {
+      "drums": "/audio/bf47cb5b/drums.mp3",
+      "bass": "/audio/bf47cb5b/bass.mp3",
+      "other": "/audio/bf47cb5b/other.mp3",
+      "vocals": "/audio/bf47cb5b/vocals.mp3"
+    }
+  },
+  {
+    "id": "0b7d6254",
+    "title": "ดาวหางฮัลเลย์",
+    "artist": "fellow fellow",
+    "stems": {
+      "drums": "/audio/0b7d6254/drums.mp3",
+      "bass": "/audio/0b7d6254/bass.mp3",
+      "other": "/audio/0b7d6254/other.mp3",
+      "vocals": "/audio/0b7d6254/vocals.mp3"
+    }
+  },
+  {
+    "id": "800b672c",
+    "title": "Hello Mama",
+    "artist": "TaitosmitH",
+    "stems": {
+      "drums": "/audio/800b672c/drums.mp3",
+      "bass": "/audio/800b672c/bass.mp3",
+      "other": "/audio/800b672c/other.mp3",
+      "vocals": "/audio/800b672c/vocals.mp3"
+    }
+  },
+  {
+    "id": "24d015d9",
+    "title": "หัวใจเจ้าเอย​ (Not Again)",
+    "artist": "Alyn Wee",
+    "stems": {
+      "drums": "/audio/24d015d9/drums.mp3",
+      "bass": "/audio/24d015d9/bass.mp3",
+      "other": "/audio/24d015d9/other.mp3",
+      "vocals": "/audio/24d015d9/vocals.mp3"
+    }
+  },
+  {
+    "id": "24a42358",
+    "title": "คำถาม",
+    "artist": "PUNYARB",
+    "stems": {
+      "drums": "/audio/24a42358/drums.mp3",
+      "bass": "/audio/24a42358/bass.mp3",
+      "other": "/audio/24a42358/other.mp3",
+      "vocals": "/audio/24a42358/vocals.mp3"
+    }
+  },
+  {
+    "id": "561e4d1d",
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "artist": "Mark Ronson,Bruno Mars",
+    "stems": {
+      "drums": "/audio/561e4d1d/drums.mp3",
+      "bass": "/audio/561e4d1d/bass.mp3",
+      "other": "/audio/561e4d1d/other.mp3",
+      "vocals": "/audio/561e4d1d/vocals.mp3"
+    }
+  },
+  {
+    "id": "147f5af0",
+    "title": "What Do You Mean?",
+    "artist": "Justin Bieber",
+    "stems": {
+      "drums": "/audio/147f5af0/drums.mp3",
+      "bass": "/audio/147f5af0/bass.mp3",
+      "other": "/audio/147f5af0/other.mp3",
+      "vocals": "/audio/147f5af0/vocals.mp3"
+    }
+  },
+  {
+    "id": "f7d196a9",
+    "title": "That's What I Like",
+    "artist": "Bruno Mars",
+    "stems": {
+      "drums": "/audio/f7d196a9/drums.mp3",
+      "bass": "/audio/f7d196a9/bass.mp3",
+      "other": "/audio/f7d196a9/other.mp3",
+      "vocals": "/audio/f7d196a9/vocals.mp3"
+    }
+  },
+  {
+    "id": "e52c3c9c",
+    "title": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+    "artist": "DJ Snake,Selena Gomez,Ozuna,Cardi B",
+    "stems": {
+      "drums": "/audio/e52c3c9c/drums.mp3",
+      "bass": "/audio/e52c3c9c/bass.mp3",
+      "other": "/audio/e52c3c9c/other.mp3",
+      "vocals": "/audio/e52c3c9c/vocals.mp3"
+    }
+  },
+  {
+    "id": "00ed4ccd",
+    "title": "Hotline Bling",
+    "artist": "Drake",
+    "stems": {
+      "drums": "/audio/00ed4ccd/drums.mp3",
+      "bass": "/audio/00ed4ccd/bass.mp3",
+      "other": "/audio/00ed4ccd/other.mp3",
+      "vocals": "/audio/00ed4ccd/vocals.mp3"
+    }
+  },
+  {
+    "id": "3f6d8b25",
+    "title": "goosebumps",
+    "artist": "Travis Scott",
+    "stems": {
+      "drums": "/audio/3f6d8b25/drums.mp3",
+      "bass": "/audio/3f6d8b25/bass.mp3",
+      "other": "/audio/3f6d8b25/other.mp3",
+      "vocals": "/audio/3f6d8b25/vocals.mp3"
+    }
+  },
+  {
+    "id": "ac631de8",
+    "title": "Loyal (feat. Lil Wayne & Tyga)",
+    "artist": "Chris Brown,Lil Wayne,Tyga",
+    "stems": {
+      "drums": "/audio/ac631de8/drums.mp3",
+      "bass": "/audio/ac631de8/bass.mp3",
+      "other": "/audio/ac631de8/other.mp3",
+      "vocals": "/audio/ac631de8/vocals.mp3"
+    }
+  },
+  {
+    "id": "178ed0c1",
+    "title": "Ayo",
+    "artist": "Chris Brown,Tyga",
+    "stems": {
+      "drums": "/audio/178ed0c1/drums.mp3",
+      "bass": "/audio/178ed0c1/bass.mp3",
+      "other": "/audio/178ed0c1/other.mp3",
+      "vocals": "/audio/178ed0c1/vocals.mp3"
+    }
+  },
+  {
+    "id": "f84f301e",
+    "title": "24K Magic",
+    "artist": "Bruno Mars",
+    "stems": {
+      "drums": "/audio/f84f301e/drums.mp3",
+      "bass": "/audio/f84f301e/bass.mp3",
+      "other": "/audio/f84f301e/other.mp3",
+      "vocals": "/audio/f84f301e/vocals.mp3"
+    }
+  },
+  {
+    "id": "87c866be",
+    "title": "Rather Be (feat. Jess Glynne)",
+    "artist": "Clean Bandit,Jess Glynne",
+    "stems": {
+      "drums": "/audio/87c866be/drums.mp3",
+      "bass": "/audio/87c866be/bass.mp3",
+      "other": "/audio/87c866be/other.mp3",
+      "vocals": "/audio/87c866be/vocals.mp3"
+    }
+  },
+  {
+    "id": "699baafc",
+    "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+    "artist": "Daft Punk,Pharrell Williams,Nile Rodgers",
+    "stems": {
+      "drums": "/audio/699baafc/drums.mp3",
+      "bass": "/audio/699baafc/bass.mp3",
+      "other": "/audio/699baafc/other.mp3",
+      "vocals": "/audio/699baafc/vocals.mp3"
+    }
+  },
+  {
+    "id": "cda0b5ce",
+    "title": "Only Girl (In The World)",
+    "artist": "Rihanna",
+    "stems": {
+      "drums": "/audio/cda0b5ce/drums.mp3",
+      "bass": "/audio/cda0b5ce/bass.mp3",
+      "other": "/audio/cda0b5ce/other.mp3",
+      "vocals": "/audio/cda0b5ce/vocals.mp3"
+    }
+  },
+  {
+    "id": "4864c7d7",
+    "title": "OMG (feat. will.i.am)",
+    "artist": "USHER,will.i.am",
+    "stems": {
+      "drums": "/audio/4864c7d7/drums.mp3",
+      "bass": "/audio/4864c7d7/bass.mp3",
+      "other": "/audio/4864c7d7/other.mp3",
+      "vocals": "/audio/4864c7d7/vocals.mp3"
+    }
+  },
+  {
+    "id": "5dfcf8ef",
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "stems": {
+      "drums": "/audio/5dfcf8ef/drums.mp3",
+      "bass": "/audio/5dfcf8ef/bass.mp3",
+      "other": "/audio/5dfcf8ef/other.mp3",
+      "vocals": "/audio/5dfcf8ef/vocals.mp3"
+    }
+  },
+  {
+    "id": "11fcc487",
+    "title": "La La La",
+    "artist": "Naughty Boy,Sam Smith",
+    "stems": {
+      "drums": "/audio/11fcc487/drums.mp3",
+      "bass": "/audio/11fcc487/bass.mp3",
+      "other": "/audio/11fcc487/other.mp3",
+      "vocals": "/audio/11fcc487/vocals.mp3"
+    }
+  },
+  {
+    "id": "e60aa3e8",
+    "title": "New Rules",
+    "artist": "Dua Lipa",
+    "stems": {
+      "drums": "/audio/e60aa3e8/drums.mp3",
+      "bass": "/audio/e60aa3e8/bass.mp3",
+      "other": "/audio/e60aa3e8/other.mp3",
+      "vocals": "/audio/e60aa3e8/vocals.mp3"
+    }
+  },
+  {
+    "id": "dfec325f",
+    "title": "Señorita",
+    "artist": "Shawn Mendes,Camila Cabello",
+    "stems": {
+      "drums": "/audio/dfec325f/drums.mp3",
+      "bass": "/audio/dfec325f/bass.mp3",
+      "other": "/audio/dfec325f/other.mp3",
+      "vocals": "/audio/dfec325f/vocals.mp3"
+    }
+  },
+  {
+    "id": "5738eafb",
+    "title": "TiK ToK",
+    "artist": "Kesha",
+    "stems": {
+      "drums": "/audio/5738eafb/drums.mp3",
+      "bass": "/audio/5738eafb/bass.mp3",
+      "other": "/audio/5738eafb/other.mp3",
+      "vocals": "/audio/5738eafb/vocals.mp3"
+    }
+  },
+  {
+    "id": "6fc15448",
+    "title": "The Middle",
+    "artist": "Zedd,Maren Morris,Grey",
+    "stems": {
+      "drums": "/audio/6fc15448/drums.mp3",
+      "bass": "/audio/6fc15448/bass.mp3",
+      "other": "/audio/6fc15448/other.mp3",
+      "vocals": "/audio/6fc15448/vocals.mp3"
+    }
+  },
+  {
+    "id": "8ce2dacc",
+    "title": "Dynamite",
+    "artist": "Taio Cruz",
+    "stems": {
+      "drums": "/audio/8ce2dacc/drums.mp3",
+      "bass": "/audio/8ce2dacc/bass.mp3",
+      "other": "/audio/8ce2dacc/other.mp3",
+      "vocals": "/audio/8ce2dacc/vocals.mp3"
+    }
+  },
+  {
+    "id": "84b8b048",
+    "title": "Starships",
+    "artist": "Nicki Minaj",
+    "stems": {
+      "drums": "/audio/84b8b048/drums.mp3",
+      "bass": "/audio/84b8b048/bass.mp3",
+      "other": "/audio/84b8b048/other.mp3",
+      "vocals": "/audio/84b8b048/vocals.mp3"
+    }
+  },
+  {
+    "id": "30092211",
+    "title": "Trap Queen",
+    "artist": "Fetty Wap",
+    "stems": {
+      "drums": "/audio/30092211/drums.mp3",
+      "bass": "/audio/30092211/bass.mp3",
+      "other": "/audio/30092211/other.mp3",
+      "vocals": "/audio/30092211/vocals.mp3"
+    }
+  },
+  {
+    "id": "9e14d0e5",
+    "title": "Party Rock Anthem",
+    "artist": "LMFAO,Lauren Bennett,GoonRock",
+    "stems": {
+      "drums": "/audio/9e14d0e5/drums.mp3",
+      "bass": "/audio/9e14d0e5/bass.mp3",
+      "other": "/audio/9e14d0e5/other.mp3",
+      "vocals": "/audio/9e14d0e5/vocals.mp3"
+    }
+  },
+  {
+    "id": "26176e2a",
+    "title": "We Found Love",
+    "artist": "Rihanna,Calvin Harris",
+    "stems": {
+      "drums": "/audio/26176e2a/drums.mp3",
+      "bass": "/audio/26176e2a/bass.mp3",
+      "other": "/audio/26176e2a/other.mp3",
+      "vocals": "/audio/26176e2a/vocals.mp3"
+    }
+  },
+  {
+    "id": "5d5552c5",
+    "title": "Baby",
+    "artist": "Justin Bieber,Ludacris",
+    "stems": {
+      "drums": "/audio/5d5552c5/drums.mp3",
+      "bass": "/audio/5d5552c5/bass.mp3",
+      "other": "/audio/5d5552c5/other.mp3",
+      "vocals": "/audio/5d5552c5/vocals.mp3"
+    }
+  },
+  {
+    "id": "b09b4d1a",
+    "title": "Telephone",
+    "artist": "Lady Gaga,Beyoncé",
+    "stems": {
+      "drums": "/audio/b09b4d1a/drums.mp3",
+      "bass": "/audio/b09b4d1a/bass.mp3",
+      "other": "/audio/b09b4d1a/other.mp3",
+      "vocals": "/audio/b09b4d1a/vocals.mp3"
+    }
+  },
+  {
+    "id": "9450c2f2",
+    "title": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+    "artist": "felix jaehn,Jasmine Thompson",
+    "stems": {
+      "drums": "/audio/9450c2f2/drums.mp3",
+      "bass": "/audio/9450c2f2/bass.mp3",
+      "other": "/audio/9450c2f2/other.mp3",
+      "vocals": "/audio/9450c2f2/vocals.mp3"
+    }
+  },
+  {
+    "id": "e8cf3a23",
+    "title": "Domino",
+    "artist": "Jessie J",
+    "stems": {
+      "drums": "/audio/e8cf3a23/drums.mp3",
+      "bass": "/audio/e8cf3a23/bass.mp3",
+      "other": "/audio/e8cf3a23/other.mp3",
+      "vocals": "/audio/e8cf3a23/vocals.mp3"
+    }
+  },
+  {
+    "id": "d30e2728",
+    "title": "Fireball (feat. John Ryan)",
+    "artist": "Pitbull,John Ryan",
+    "stems": {
+      "drums": "/audio/d30e2728/drums.mp3",
+      "bass": "/audio/d30e2728/bass.mp3",
+      "other": "/audio/d30e2728/other.mp3",
+      "vocals": "/audio/d30e2728/vocals.mp3"
+    }
+  },
+  {
+    "id": "6734dd1b",
+    "title": "Locked out of Heaven",
+    "artist": "Bruno Mars",
+    "stems": {
+      "drums": "/audio/6734dd1b/drums.mp3",
+      "bass": "/audio/6734dd1b/bass.mp3",
+      "other": "/audio/6734dd1b/other.mp3",
+      "vocals": "/audio/6734dd1b/vocals.mp3"
+    }
+  },
+  {
+    "id": "60a60b6f",
+    "title": "On The Floor",
+    "artist": "Jennifer Lopez,Pitbull",
+    "stems": {
+      "drums": "/audio/60a60b6f/drums.mp3",
+      "bass": "/audio/60a60b6f/bass.mp3",
+      "other": "/audio/60a60b6f/other.mp3",
+      "vocals": "/audio/60a60b6f/vocals.mp3"
+    }
+  },
+  {
+    "id": "2f056a50",
+    "title": "Work",
+    "artist": "Rihanna,Drake",
+    "stems": {
+      "drums": "/audio/2f056a50/drums.mp3",
+      "bass": "/audio/2f056a50/bass.mp3",
+      "other": "/audio/2f056a50/other.mp3",
+      "vocals": "/audio/2f056a50/vocals.mp3"
+    }
+  },
+  {
+    "id": "0bd8e488",
+    "title": "Sweet but Psycho",
+    "artist": "Ava Max",
+    "stems": {
+      "drums": "/audio/0bd8e488/drums.mp3",
+      "bass": "/audio/0bd8e488/bass.mp3",
+      "other": "/audio/0bd8e488/other.mp3",
+      "vocals": "/audio/0bd8e488/vocals.mp3"
+    }
+  },
+  {
+    "id": "952b024e",
+    "title": "Glad You Came",
+    "artist": "The Wanted",
+    "stems": {
+      "drums": "/audio/952b024e/drums.mp3",
+      "bass": "/audio/952b024e/bass.mp3",
+      "other": "/audio/952b024e/other.mp3",
+      "vocals": "/audio/952b024e/vocals.mp3"
+    }
+  },
+  {
+    "id": "b291a5e5",
+    "title": "Time of Our Lives",
+    "artist": "Pitbull,Ne-Yo",
+    "stems": {
+      "drums": "/audio/b291a5e5/drums.mp3",
+      "bass": "/audio/b291a5e5/bass.mp3",
+      "other": "/audio/b291a5e5/other.mp3",
+      "vocals": "/audio/b291a5e5/vocals.mp3"
+    }
+  },
+  {
+    "id": "22126f76",
+    "title": "Where Have You Been",
+    "artist": "Rihanna",
+    "stems": {
+      "drums": "/audio/22126f76/drums.mp3",
+      "bass": "/audio/22126f76/bass.mp3",
+      "other": "/audio/22126f76/other.mp3",
+      "vocals": "/audio/22126f76/vocals.mp3"
+    }
+  },
+  {
+    "id": "59c86287",
+    "title": "Show Me (feat. Chris Brown)",
+    "artist": "Kid Ink,Chris Brown",
+    "stems": {
+      "drums": "/audio/59c86287/drums.mp3",
+      "bass": "/audio/59c86287/bass.mp3",
+      "other": "/audio/59c86287/other.mp3",
+      "vocals": "/audio/59c86287/vocals.mp3"
+    }
+  },
+  {
+    "id": "d1d4d97d",
+    "title": "I Love It (feat. Charli XCX)",
+    "artist": "Icona Pop,Charli xcx",
+    "stems": {
+      "drums": "/audio/d1d4d97d/drums.mp3",
+      "bass": "/audio/d1d4d97d/bass.mp3",
+      "other": "/audio/d1d4d97d/other.mp3",
+      "vocals": "/audio/d1d4d97d/vocals.mp3"
+    }
+  },
+  {
+    "id": "2cad71be",
+    "title": "Feel So Close - Radio Edit",
+    "artist": "Calvin Harris",
+    "stems": {
+      "drums": "/audio/2cad71be/drums.mp3",
+      "bass": "/audio/2cad71be/bass.mp3",
+      "other": "/audio/2cad71be/other.mp3",
+      "vocals": "/audio/2cad71be/vocals.mp3"
+    }
+  },
+  {
+    "id": "91d017fb",
+    "title": "Can't Feel My Face",
+    "artist": "The Weeknd",
+    "stems": {
+      "drums": "/audio/91d017fb/drums.mp3",
+      "bass": "/audio/91d017fb/bass.mp3",
+      "other": "/audio/91d017fb/other.mp3",
+      "vocals": "/audio/91d017fb/vocals.mp3"
+    }
+  },
+  {
+    "id": "cebc92fe",
+    "title": "Good Feeling",
+    "artist": "Flo Rida",
+    "stems": {
+      "drums": "/audio/cebc92fe/drums.mp3",
+      "bass": "/audio/cebc92fe/bass.mp3",
+      "other": "/audio/cebc92fe/other.mp3",
+      "vocals": "/audio/cebc92fe/vocals.mp3"
+    }
+  },
+  {
+    "id": "32107fad",
+    "title": "bad guy",
+    "artist": "Billie Eilish",
+    "stems": {
+      "drums": "/audio/32107fad/drums.mp3",
+      "bass": "/audio/32107fad/bass.mp3",
+      "other": "/audio/32107fad/other.mp3",
+      "vocals": "/audio/32107fad/vocals.mp3"
+    }
+  },
+  {
+    "id": "128dd8c4",
+    "title": "Finesse - Remix; feat. Cardi B",
+    "artist": "Bruno Mars,Cardi B",
+    "stems": {
+      "drums": "/audio/128dd8c4/drums.mp3",
+      "bass": "/audio/128dd8c4/bass.mp3",
+      "other": "/audio/128dd8c4/other.mp3",
+      "vocals": "/audio/128dd8c4/vocals.mp3"
+    }
+  },
+  {
+    "id": "2df3f2b2",
+    "title": "Break Free",
+    "artist": "Ariana Grande,Zedd",
+    "stems": {
+      "drums": "/audio/2df3f2b2/drums.mp3",
+      "bass": "/audio/2df3f2b2/bass.mp3",
+      "other": "/audio/2df3f2b2/other.mp3",
+      "vocals": "/audio/2df3f2b2/vocals.mp3"
+    }
+  },
+  {
+    "id": "9a65980d",
+    "title": "Play Hard (feat. Ne-Yo & Akon)",
+    "artist": "David Guetta,Ne-Yo,Akon",
+    "stems": {
+      "drums": "/audio/9a65980d/drums.mp3",
+      "bass": "/audio/9a65980d/bass.mp3",
+      "other": "/audio/9a65980d/other.mp3",
+      "vocals": "/audio/9a65980d/vocals.mp3"
+    }
+  },
+  {
+    "id": "84541923",
+    "title": "Lush Life",
+    "artist": "Zara Larsson",
+    "stems": {
+      "drums": "/audio/84541923/drums.mp3",
+      "bass": "/audio/84541923/bass.mp3",
+      "other": "/audio/84541923/other.mp3",
+      "vocals": "/audio/84541923/vocals.mp3"
+    }
+  },
+  {
+    "id": "81b915ad",
+    "title": "Looking at Me",
+    "artist": "Sabrina Carpenter",
+    "stems": {
+      "drums": "/audio/81b915ad/drums.mp3",
+      "bass": "/audio/81b915ad/bass.mp3",
+      "other": "/audio/81b915ad/other.mp3",
+      "vocals": "/audio/81b915ad/vocals.mp3"
+    }
+  },
+  {
+    "id": "34ffc389",
+    "title": "Part Of Me",
+    "artist": "Katy Perry",
+    "stems": {
+      "drums": "/audio/34ffc389/drums.mp3",
+      "bass": "/audio/34ffc389/bass.mp3",
+      "other": "/audio/34ffc389/other.mp3",
+      "vocals": "/audio/34ffc389/vocals.mp3"
+    }
+  },
+  {
+    "id": "b5d8567c",
+    "title": "Starboy",
+    "artist": "The Weeknd,Daft Punk",
+    "stems": {
+      "drums": "/audio/b5d8567c/drums.mp3",
+      "bass": "/audio/b5d8567c/bass.mp3",
+      "other": "/audio/b5d8567c/other.mp3",
+      "vocals": "/audio/b5d8567c/vocals.mp3"
+    }
+  },
+  {
+    "id": "70ba702d",
+    "title": "Black and Yellow",
+    "artist": "Wiz Khalifa",
+    "stems": {
+      "drums": "/audio/70ba702d/drums.mp3",
+      "bass": "/audio/70ba702d/bass.mp3",
+      "other": "/audio/70ba702d/other.mp3",
+      "vocals": "/audio/70ba702d/vocals.mp3"
+    }
+  },
+  {
+    "id": "db30bd47",
+    "title": "Give Me Everything (feat. Nayer)",
+    "artist": "Pitbull,AFROJACK,Ne-Yo,Nayer",
+    "stems": {
+      "drums": "/audio/db30bd47/drums.mp3",
+      "bass": "/audio/db30bd47/bass.mp3",
+      "other": "/audio/db30bd47/other.mp3",
+      "vocals": "/audio/db30bd47/vocals.mp3"
+    }
+  },
+  {
+    "id": "1b85efc1",
+    "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's  TROLLS )",
+    "artist": "Justin Timberlake",
+    "stems": {
+      "drums": "/audio/1b85efc1/drums.mp3",
+      "bass": "/audio/1b85efc1/bass.mp3",
+      "other": "/audio/1b85efc1/other.mp3",
+      "vocals": "/audio/1b85efc1/vocals.mp3"
+    }
+  },
+  {
+    "id": "a8dd7514",
+    "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+    "artist": "USHER,Pitbull",
+    "stems": {
+      "drums": "/audio/a8dd7514/drums.mp3",
+      "bass": "/audio/a8dd7514/bass.mp3",
+      "other": "/audio/a8dd7514/other.mp3",
+      "vocals": "/audio/a8dd7514/vocals.mp3"
+    }
+  },
+  {
+    "id": "31bcf738",
+    "title": "I Took A Pill In Ibiza - Seeb Remix",
+    "artist": "Mike Posner,Seeb",
+    "stems": {
+      "drums": "/audio/31bcf738/drums.mp3",
+      "bass": "/audio/31bcf738/bass.mp3",
+      "other": "/audio/31bcf738/other.mp3",
+      "vocals": "/audio/31bcf738/vocals.mp3"
+    }
+  },
+  {
+    "id": "f56e7328",
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "stems": {
+      "drums": "/audio/f56e7328/drums.mp3",
+      "bass": "/audio/f56e7328/bass.mp3",
+      "other": "/audio/f56e7328/other.mp3",
+      "vocals": "/audio/f56e7328/vocals.mp3"
+    }
+  },
+  {
+    "id": "19ef7fbb",
+    "title": "I Like It",
+    "artist": "Enrique Iglesias,Pitbull",
+    "stems": {
+      "drums": "/audio/19ef7fbb/drums.mp3",
+      "bass": "/audio/19ef7fbb/bass.mp3",
+      "other": "/audio/19ef7fbb/other.mp3",
+      "vocals": "/audio/19ef7fbb/vocals.mp3"
+    }
+  },
+  {
+    "id": "bb1742bf",
+    "title": "Outside (feat. Ellie Goulding)",
+    "artist": "Calvin Harris,Ellie Goulding",
+    "stems": {
+      "drums": "/audio/bb1742bf/drums.mp3",
+      "bass": "/audio/bb1742bf/bass.mp3",
+      "other": "/audio/bb1742bf/other.mp3",
+      "vocals": "/audio/bb1742bf/vocals.mp3"
+    }
+  },
+  {
+    "id": "f9a07d56",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "stems": {
+      "drums": "/audio/f9a07d56/drums.mp3",
+      "bass": "/audio/f9a07d56/bass.mp3",
+      "other": "/audio/f9a07d56/other.mp3",
+      "vocals": "/audio/f9a07d56/vocals.mp3"
+    }
+  },
+  {
+    "id": "ba23b9b3",
+    "title": "Happy - From  Despicable Me 2",
+    "artist": "Pharrell Williams",
+    "stems": {
+      "drums": "/audio/ba23b9b3/drums.mp3",
+      "bass": "/audio/ba23b9b3/bass.mp3",
+      "other": "/audio/ba23b9b3/other.mp3",
+      "vocals": "/audio/ba23b9b3/vocals.mp3"
+    }
+  },
+  {
+    "id": "e3df1a59",
+    "title": "Meant to Be (feat. Florida Georgia Line)",
+    "artist": "Bebe Rexha,Florida Georgia Line",
+    "stems": {
+      "drums": "/audio/e3df1a59/drums.mp3",
+      "bass": "/audio/e3df1a59/bass.mp3",
+      "other": "/audio/e3df1a59/other.mp3",
+      "vocals": "/audio/e3df1a59/vocals.mp3"
+    }
+  },
+  {
+    "id": "bca726c5",
+    "title": "Can't Hold Us (feat. Ray Dalton)",
+    "artist": "Macklemore,Ryan Lewis,Macklemore & Ryan Lewis,Ray Dalton",
+    "stems": {
+      "drums": "/audio/bca726c5/drums.mp3",
+      "bass": "/audio/bca726c5/bass.mp3",
+      "other": "/audio/bca726c5/other.mp3",
+      "vocals": "/audio/bca726c5/vocals.mp3"
+    }
+  },
+  {
+    "id": "b72708db",
+    "title": "One Last Time",
+    "artist": "Ariana Grande",
+    "stems": {
+      "drums": "/audio/b72708db/drums.mp3",
+      "bass": "/audio/b72708db/bass.mp3",
+      "other": "/audio/b72708db/other.mp3",
+      "vocals": "/audio/b72708db/vocals.mp3"
+    }
+  },
+  {
+    "id": "188cfff1",
+    "title": "Danza Kuduro (feat. Don Omar)",
+    "artist": "Lucenzo,Don Omar",
+    "stems": {
+      "drums": "/audio/188cfff1/drums.mp3",
+      "bass": "/audio/188cfff1/bass.mp3",
+      "other": "/audio/188cfff1/other.mp3",
+      "vocals": "/audio/188cfff1/vocals.mp3"
+    }
+  },
+  {
+    "id": "b84b5cfb",
+    "title": "Club Can't Handle Me (feat. David Guetta)",
+    "artist": "Flo Rida,David Guetta",
+    "stems": {
+      "drums": "/audio/b84b5cfb/drums.mp3",
+      "bass": "/audio/b84b5cfb/bass.mp3",
+      "other": "/audio/b84b5cfb/other.mp3",
+      "vocals": "/audio/b84b5cfb/vocals.mp3"
+    }
+  },
+  {
+    "id": "28980869",
+    "title": "679 (feat. Remy Boyz)",
+    "artist": "Fetty Wap,Remy Boyz",
+    "stems": {
+      "drums": "/audio/28980869/drums.mp3",
+      "bass": "/audio/28980869/bass.mp3",
+      "other": "/audio/28980869/other.mp3",
+      "vocals": "/audio/28980869/vocals.mp3"
+    }
+  },
+  {
+    "id": "a44cfd1d",
+    "title": "Don't You Worry Child - Radio Edit",
+    "artist": "Swedish House Mafia,John Martin",
+    "stems": {
+      "drums": "/audio/a44cfd1d/drums.mp3",
+      "bass": "/audio/a44cfd1d/bass.mp3",
+      "other": "/audio/a44cfd1d/other.mp3",
+      "vocals": "/audio/a44cfd1d/vocals.mp3"
+    }
+  },
+  {
+    "id": "9954883d",
+    "title": "Wild Ones (feat. Sia)",
+    "artist": "Flo Rida,Sia",
+    "stems": {
+      "drums": "/audio/9954883d/drums.mp3",
+      "bass": "/audio/9954883d/bass.mp3",
+      "other": "/audio/9954883d/other.mp3",
+      "vocals": "/audio/9954883d/vocals.mp3"
+    }
+  },
+  {
+    "id": "f27f86b9",
+    "title": "Titanium (feat. Sia)",
+    "artist": "David Guetta,Sia",
+    "stems": {
+      "drums": "/audio/f27f86b9/drums.mp3",
+      "bass": "/audio/f27f86b9/bass.mp3",
+      "other": "/audio/f27f86b9/other.mp3",
+      "vocals": "/audio/f27f86b9/vocals.mp3"
+    }
+  },
+  {
+    "id": "3574ad49",
+    "title": "Summer",
+    "artist": "Calvin Harris",
+    "stems": {
+      "drums": "/audio/3574ad49/drums.mp3",
+      "bass": "/audio/3574ad49/bass.mp3",
+      "other": "/audio/3574ad49/other.mp3",
+      "vocals": "/audio/3574ad49/vocals.mp3"
+    }
+  },
+  {
+    "id": "c138326e",
+    "title": "Born This Way",
+    "artist": "Lady Gaga",
+    "stems": {
+      "drums": "/audio/c138326e/drums.mp3",
+      "bass": "/audio/c138326e/bass.mp3",
+      "other": "/audio/c138326e/other.mp3",
+      "vocals": "/audio/c138326e/vocals.mp3"
+    }
+  },
+  {
+    "id": "66ee0957",
+    "title": "The Hills",
+    "artist": "The Weeknd",
+    "stems": {
+      "drums": "/audio/66ee0957/drums.mp3",
+      "bass": "/audio/66ee0957/bass.mp3",
+      "other": "/audio/66ee0957/other.mp3",
+      "vocals": "/audio/66ee0957/vocals.mp3"
+    }
+  },
+  {
+    "id": "2e41d846",
+    "title": "High Hopes",
+    "artist": "Panic! At The Disco",
+    "stems": {
+      "drums": "/audio/2e41d846/drums.mp3",
+      "bass": "/audio/2e41d846/bass.mp3",
+      "other": "/audio/2e41d846/other.mp3",
+      "vocals": "/audio/2e41d846/vocals.mp3"
+    }
+  },
+  {
+    "id": "c07e318f",
+    "title": "Levels - Radio Edit",
+    "artist": "Avicii",
+    "stems": {
+      "drums": "/audio/c07e318f/drums.mp3",
+      "bass": "/audio/c07e318f/bass.mp3",
+      "other": "/audio/c07e318f/other.mp3",
+      "vocals": "/audio/c07e318f/vocals.mp3"
+    }
+  },
+  {
+    "id": "86e3f64d",
+    "title": "Timber",
+    "artist": "Pitbull,Kesha",
+    "stems": {
+      "drums": "/audio/86e3f64d/drums.mp3",
+      "bass": "/audio/86e3f64d/bass.mp3",
+      "other": "/audio/86e3f64d/other.mp3",
+      "vocals": "/audio/86e3f64d/vocals.mp3"
+    }
+  },
+  {
+    "id": "74a61b35",
+    "title": "Cool for the Summer",
+    "artist": "Demi Lovato",
+    "stems": {
+      "drums": "/audio/74a61b35/drums.mp3",
+      "bass": "/audio/74a61b35/bass.mp3",
+      "other": "/audio/74a61b35/other.mp3",
+      "vocals": "/audio/74a61b35/vocals.mp3"
+    }
+  },
+  {
+    "id": "6f08c99a",
+    "title": "Middle",
+    "artist": "DJ Snake,Bipolar Sunshine",
+    "stems": {
+      "drums": "/audio/6f08c99a/drums.mp3",
+      "bass": "/audio/6f08c99a/bass.mp3",
+      "other": "/audio/6f08c99a/other.mp3",
+      "vocals": "/audio/6f08c99a/vocals.mp3"
+    }
+  },
+  {
+    "id": "b58c1938",
+    "title": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+    "artist": "Lana Del Rey,Cedric Gervais",
+    "stems": {
+      "drums": "/audio/b58c1938/drums.mp3",
+      "bass": "/audio/b58c1938/bass.mp3",
+      "other": "/audio/b58c1938/other.mp3",
+      "vocals": "/audio/b58c1938/vocals.mp3"
+    }
+  },
+  {
+    "id": "25401679",
+    "title": "Good Time",
+    "artist": "Owl City,Carly Rae Jepsen",
+    "stems": {
+      "drums": "/audio/25401679/drums.mp3",
+      "bass": "/audio/25401679/bass.mp3",
+      "other": "/audio/25401679/other.mp3",
+      "vocals": "/audio/25401679/vocals.mp3"
+    }
+  },
+  {
+    "id": "59aa4281",
+    "title": "Wake Me Up",
+    "artist": "Avicii",
+    "stems": {
+      "drums": "/audio/59aa4281/drums.mp3",
+      "bass": "/audio/59aa4281/bass.mp3",
+      "other": "/audio/59aa4281/other.mp3",
+      "vocals": "/audio/59aa4281/vocals.mp3"
+    }
+  },
+  {
+    "id": "b09ad73c",
+    "title": "Latch",
+    "artist": "Disclosure,Sam Smith",
+    "stems": {
+      "drums": "/audio/b09ad73c/drums.mp3",
+      "bass": "/audio/b09ad73c/bass.mp3",
+      "other": "/audio/b09ad73c/other.mp3",
+      "vocals": "/audio/b09ad73c/vocals.mp3"
+    }
+  },
+  {
+    "id": "05fd7acd",
+    "title": "In the Name of Love",
+    "artist": "Martin Garrix,Bebe Rexha",
+    "stems": {
+      "drums": "/audio/05fd7acd/drums.mp3",
+      "bass": "/audio/05fd7acd/bass.mp3",
+      "other": "/audio/05fd7acd/other.mp3",
+      "vocals": "/audio/05fd7acd/vocals.mp3"
+    }
+  },
+  {
+    "id": "75aad34a",
+    "title": "So Hot",
+    "artist": "Wonder Girls",
+    "stems": {
+      "drums": "/audio/75aad34a/drums.mp3",
+      "bass": "/audio/75aad34a/bass.mp3",
+      "other": "/audio/75aad34a/other.mp3",
+      "vocals": "/audio/75aad34a/vocals.mp3"
+    }
+  },
+  {
+    "id": "1f0830e8",
+    "title": "쏘리 쏘리 Sorry, Sorry",
+    "artist": "SUPER JUNIOR",
+    "stems": {
+      "drums": "/audio/1f0830e8/drums.mp3",
+      "bass": "/audio/1f0830e8/bass.mp3",
+      "other": "/audio/1f0830e8/other.mp3",
+      "vocals": "/audio/1f0830e8/vocals.mp3"
+    }
+  },
+  {
+    "id": "ef74ce09",
+    "title": "Genie",
+    "artist": "Girls' Generation",
+    "stems": {
+      "drums": "/audio/ef74ce09/drums.mp3",
+      "bass": "/audio/ef74ce09/bass.mp3",
+      "other": "/audio/ef74ce09/other.mp3",
+      "vocals": "/audio/ef74ce09/vocals.mp3"
+    }
+  },
+  {
+    "id": "f3114ad8",
+    "title": "Mr. Simple",
+    "artist": "SUPER JUNIOR",
+    "stems": {
+      "drums": "/audio/f3114ad8/drums.mp3",
+      "bass": "/audio/f3114ad8/bass.mp3",
+      "other": "/audio/f3114ad8/other.mp3",
+      "vocals": "/audio/f3114ad8/vocals.mp3"
+    }
+  },
+  {
+    "id": "4409b93f",
+    "title": "The Boys",
+    "artist": "Girls' Generation",
+    "stems": {
+      "drums": "/audio/4409b93f/drums.mp3",
+      "bass": "/audio/4409b93f/bass.mp3",
+      "other": "/audio/4409b93f/other.mp3",
+      "vocals": "/audio/4409b93f/vocals.mp3"
+    }
+  },
+  {
+    "id": "f0733d27",
+    "title": "Fantastic Baby",
+    "artist": "BIGBANG",
+    "stems": {
+      "drums": "/audio/f0733d27/drums.mp3",
+      "bass": "/audio/f0733d27/bass.mp3",
+      "other": "/audio/f0733d27/other.mp3",
+      "vocals": "/audio/f0733d27/vocals.mp3"
+    }
+  },
+  {
+    "id": "d7f2c174",
+    "title": "I GOT A BOY",
+    "artist": "Girls' Generation",
+    "stems": {
+      "drums": "/audio/d7f2c174/drums.mp3",
+      "bass": "/audio/d7f2c174/bass.mp3",
+      "other": "/audio/d7f2c174/other.mp3",
+      "vocals": "/audio/d7f2c174/vocals.mp3"
+    }
+  },
+  {
+    "id": "77d48fba",
+    "title": "No More Dream",
+    "artist": "BTS",
+    "stems": {
+      "drums": "/audio/77d48fba/drums.mp3",
+      "bass": "/audio/77d48fba/bass.mp3",
+      "other": "/audio/77d48fba/other.mp3",
+      "vocals": "/audio/77d48fba/vocals.mp3"
+    }
+  },
+  {
+    "id": "c460dc5c",
+    "title": "NoNoNo",
+    "artist": "Apink",
+    "stems": {
+      "drums": "/audio/c460dc5c/drums.mp3",
+      "bass": "/audio/c460dc5c/bass.mp3",
+      "other": "/audio/c460dc5c/other.mp3",
+      "vocals": "/audio/c460dc5c/vocals.mp3"
+    }
+  },
+  {
+    "id": "803f4396",
+    "title": "Into the New World",
+    "artist": "Girls' Generation",
+    "stems": {
+      "drums": "/audio/803f4396/drums.mp3",
+      "bass": "/audio/803f4396/bass.mp3",
+      "other": "/audio/803f4396/other.mp3",
+      "vocals": "/audio/803f4396/vocals.mp3"
+    }
+  },
+  {
+    "id": "b97dbba0",
+    "title": "CROOKED",
+    "artist": "G-DRAGON",
+    "stems": {
+      "drums": "/audio/b97dbba0/drums.mp3",
+      "bass": "/audio/b97dbba0/bass.mp3",
+      "other": "/audio/b97dbba0/other.mp3",
+      "vocals": "/audio/b97dbba0/vocals.mp3"
+    }
+  },
+  {
+    "id": "30d32bc9",
+    "title": "Ringa Linga",
+    "artist": "TAEYANG",
+    "stems": {
+      "drums": "/audio/30d32bc9/drums.mp3",
+      "bass": "/audio/30d32bc9/bass.mp3",
+      "other": "/audio/30d32bc9/other.mp3",
+      "vocals": "/audio/30d32bc9/vocals.mp3"
+    }
+  },
+  {
+    "id": "b4cf240e",
+    "title": "Miniskirt",
+    "artist": "AOA",
+    "stems": {
+      "drums": "/audio/b4cf240e/drums.mp3",
+      "bass": "/audio/b4cf240e/bass.mp3",
+      "other": "/audio/b4cf240e/other.mp3",
+      "vocals": "/audio/b4cf240e/vocals.mp3"
+    }
+  },
+  {
+    "id": "45e1d0fc",
+    "title": "Boy in Luv",
+    "artist": "BTS",
+    "stems": {
+      "drums": "/audio/45e1d0fc/drums.mp3",
+      "bass": "/audio/45e1d0fc/bass.mp3",
+      "other": "/audio/45e1d0fc/other.mp3",
+      "vocals": "/audio/45e1d0fc/vocals.mp3"
+    }
+  },
+  {
+    "id": "9e652805",
+    "title": "Just One Day",
+    "artist": "BTS",
+    "stems": {
+      "drums": "/audio/9e652805/drums.mp3",
+      "bass": "/audio/9e652805/bass.mp3",
+      "other": "/audio/9e652805/other.mp3",
+      "vocals": "/audio/9e652805/vocals.mp3"
+    }
+  },
+  {
+    "id": "d8aef3a8",
+    "title": "Mr.Mr.",
+    "artist": "Girls' Generation",
+    "stems": {
+      "drums": "/audio/d8aef3a8/drums.mp3",
+      "bass": "/audio/d8aef3a8/bass.mp3",
+      "other": "/audio/d8aef3a8/other.mp3",
+      "vocals": "/audio/d8aef3a8/vocals.mp3"
+    }
+  },
+  {
+    "id": "601375f1",
+    "title": "Mr. Chu",
+    "artist": "Apink",
+    "stems": {
+      "drums": "/audio/601375f1/drums.mp3",
+      "bass": "/audio/601375f1/bass.mp3",
+      "other": "/audio/601375f1/other.mp3",
+      "vocals": "/audio/601375f1/vocals.mp3"
+    }
+  },
+  {
+    "id": "a8444b54",
+    "title": "Oh!",
+    "artist": "Girls' Generation",
+    "stems": {
+      "drums": "/audio/a8444b54/drums.mp3",
+      "bass": "/audio/a8444b54/bass.mp3",
+      "other": "/audio/a8444b54/other.mp3",
+      "vocals": "/audio/a8444b54/vocals.mp3"
+    }
+  },
+  {
+    "id": "f5fb0996",
+    "title": "Touch my body",
+    "artist": "SISTAR",
+    "stems": {
+      "drums": "/audio/f5fb0996/drums.mp3",
+      "bass": "/audio/f5fb0996/bass.mp3",
+      "other": "/audio/f5fb0996/other.mp3",
+      "vocals": "/audio/f5fb0996/vocals.mp3"
+    }
+  },
+  {
+    "id": "01f4aa9f",
+    "title": "행복 (Happiness)",
+    "artist": "Red Velvet",
+    "stems": {
+      "drums": "/audio/01f4aa9f/drums.mp3",
+      "bass": "/audio/01f4aa9f/bass.mp3",
+      "other": "/audio/01f4aa9f/other.mp3",
+      "vocals": "/audio/01f4aa9f/vocals.mp3"
+    }
+  },
+  {
+    "id": "eddd54f7",
+    "title": "Overdose",
+    "artist": "EXO-K",
+    "stems": {
+      "drums": "/audio/eddd54f7/drums.mp3",
+      "bass": "/audio/eddd54f7/bass.mp3",
+      "other": "/audio/eddd54f7/other.mp3",
+      "vocals": "/audio/eddd54f7/vocals.mp3"
+    }
+  },
+  {
+    "id": "8dfaf305",
+    "title": "Up & Down",
+    "artist": "EXID",
+    "stems": {
+      "drums": "/audio/8dfaf305/drums.mp3",
+      "bass": "/audio/8dfaf305/bass.mp3",
+      "other": "/audio/8dfaf305/other.mp3",
+      "vocals": "/audio/8dfaf305/vocals.mp3"
+    }
+  },
+  {
+    "id": "d69294de",
+    "title": "GOOD BOY",
+    "artist": "GD X TAEYANG",
+    "stems": {
+      "drums": "/audio/d69294de/drums.mp3",
+      "bass": "/audio/d69294de/bass.mp3",
+      "other": "/audio/d69294de/other.mp3",
+      "vocals": "/audio/d69294de/vocals.mp3"
+    }
+  },
+  {
+    "id": "75ddbba7",
+    "title": "I Am The Best",
+    "artist": "2NE1",
+    "stems": {
+      "drums": "/audio/75ddbba7/drums.mp3",
+      "bass": "/audio/75ddbba7/bass.mp3",
+      "other": "/audio/75ddbba7/other.mp3",
+      "vocals": "/audio/75ddbba7/vocals.mp3"
+    }
+  },
+  {
+    "id": "b2f51e25",
+    "title": "Ice Cream Cake",
+    "artist": "Red Velvet",
+    "stems": {
+      "drums": "/audio/b2f51e25/drums.mp3",
+      "bass": "/audio/b2f51e25/bass.mp3",
+      "other": "/audio/b2f51e25/other.mp3",
+      "vocals": "/audio/b2f51e25/vocals.mp3"
+    }
+  },
+  {
+    "id": "920d2faa",
+    "title": "CALL ME BABY",
+    "artist": "EXO",
+    "stems": {
+      "drums": "/audio/920d2faa/drums.mp3",
+      "bass": "/audio/920d2faa/bass.mp3",
+      "other": "/audio/920d2faa/other.mp3",
+      "vocals": "/audio/920d2faa/vocals.mp3"
+    }
+  },
+  {
+    "id": "cd8c5235",
+    "title": "Dope",
+    "artist": "BTS",
+    "stems": {
+      "drums": "/audio/cd8c5235/drums.mp3",
+      "bass": "/audio/cd8c5235/bass.mp3",
+      "other": "/audio/cd8c5235/other.mp3",
+      "vocals": "/audio/cd8c5235/vocals.mp3"
+    }
+  },
+  {
+    "id": "f29ecd72",
+    "title": "I Need U",
+    "artist": "BTS",
+    "stems": {
+      "drums": "/audio/f29ecd72/drums.mp3",
+      "bass": "/audio/f29ecd72/bass.mp3",
+      "other": "/audio/f29ecd72/other.mp3",
+      "vocals": "/audio/f29ecd72/vocals.mp3"
+    }
+  },
+  {
+    "id": "c9c5f2bb",
+    "title": "Just Right",
+    "artist": "GOT7",
+    "stems": {
+      "drums": "/audio/c9c5f2bb/drums.mp3",
+      "bass": "/audio/c9c5f2bb/bass.mp3",
+      "other": "/audio/c9c5f2bb/other.mp3",
+      "vocals": "/audio/c9c5f2bb/vocals.mp3"
+    }
+  },
+  {
+    "id": "5297b9a1",
+    "title": "Me Gustas Tu",
+    "artist": "GFRIEND",
+    "stems": {
+      "drums": "/audio/5297b9a1/drums.mp3",
+      "bass": "/audio/5297b9a1/bass.mp3",
+      "other": "/audio/5297b9a1/other.mp3",
+      "vocals": "/audio/5297b9a1/vocals.mp3"
+    }
+  },
+  {
+    "id": "eb57529d",
+    "title": "HERO",
+    "artist": "MONSTA X",
+    "stems": {
+      "drums": "/audio/eb57529d/drums.mp3",
+      "bass": "/audio/eb57529d/bass.mp3",
+      "other": "/audio/eb57529d/other.mp3",
+      "vocals": "/audio/eb57529d/vocals.mp3"
+    }
+  },
+  {
+    "id": "3829ba46",
+    "title": "Dumb Dumb",
+    "artist": "Red Velvet",
+    "stems": {
+      "drums": "/audio/3829ba46/drums.mp3",
+      "bass": "/audio/3829ba46/bass.mp3",
+      "other": "/audio/3829ba46/other.mp3",
+      "vocals": "/audio/3829ba46/vocals.mp3"
+    }
+  },
+  {
+    "id": "be7ce7b2",
+    "title": "I",
+    "artist": "TAEYEON,Verbal Jint",
+    "stems": {
+      "drums": "/audio/be7ce7b2/drums.mp3",
+      "bass": "/audio/be7ce7b2/bass.mp3",
+      "other": "/audio/be7ce7b2/other.mp3",
+      "vocals": "/audio/be7ce7b2/vocals.mp3"
+    }
+  },
+  {
+    "id": "b76e7e3b",
+    "title": "OOH-AHH하게 Like OOH-AHH",
+    "artist": "TWICE",
+    "stems": {
+      "drums": "/audio/b76e7e3b/drums.mp3",
+      "bass": "/audio/b76e7e3b/bass.mp3",
+      "other": "/audio/b76e7e3b/other.mp3",
+      "vocals": "/audio/b76e7e3b/vocals.mp3"
+    }
+  },
+  {
+    "id": "e8ff27a9",
+    "title": "CHEER UP",
+    "artist": "TWICE",
+    "stems": {
+      "drums": "/audio/e8ff27a9/drums.mp3",
+      "bass": "/audio/e8ff27a9/bass.mp3",
+      "other": "/audio/e8ff27a9/other.mp3",
+      "vocals": "/audio/e8ff27a9/vocals.mp3"
+    }
+  },
+  {
+    "id": "c2cc503b",
+    "title": "BOOMBAYAH",
+    "artist": "BLACKPINK",
+    "stems": {
+      "drums": "/audio/c2cc503b/drums.mp3",
+      "bass": "/audio/c2cc503b/bass.mp3",
+      "other": "/audio/c2cc503b/other.mp3",
+      "vocals": "/audio/c2cc503b/vocals.mp3"
+    }
+  },
+  {
+    "id": "70f95d29",
+    "title": "Very Very Very",
+    "artist": "I.O.I",
+    "stems": {
+      "drums": "/audio/70f95d29/drums.mp3",
+      "bass": "/audio/70f95d29/bass.mp3",
+      "other": "/audio/70f95d29/other.mp3",
+      "vocals": "/audio/70f95d29/vocals.mp3"
+    }
+  },
+  {
+    "id": "6bf0bc6f",
+    "title": "TT",
+    "artist": "TWICE",
+    "stems": {
+      "drums": "/audio/6bf0bc6f/drums.mp3",
+      "bass": "/audio/6bf0bc6f/bass.mp3",
+      "other": "/audio/6bf0bc6f/other.mp3",
+      "vocals": "/audio/6bf0bc6f/vocals.mp3"
+    }
+  },
+  {
+    "id": "76c34ac0",
+    "title": "IF YOU",
+    "artist": "BIGBANG",
+    "stems": {
+      "drums": "/audio/76c34ac0/drums.mp3",
+      "bass": "/audio/76c34ac0/bass.mp3",
+      "other": "/audio/76c34ac0/other.mp3",
+      "vocals": "/audio/76c34ac0/vocals.mp3"
+    }
+  },
+  {
+    "id": "0429aa14",
+    "title": "Palette (feat. G-DRAGON)",
+    "artist": "IU,G-DRAGON",
+    "stems": {
+      "drums": "/audio/0429aa14/drums.mp3",
+      "bass": "/audio/0429aa14/bass.mp3",
+      "other": "/audio/0429aa14/other.mp3",
+      "vocals": "/audio/0429aa14/vocals.mp3"
+    }
+  },
+  {
+    "id": "ba8f3a61",
+    "title": "Some",
+    "artist": "BOL4",
+    "stems": {
+      "drums": "/audio/ba8f3a61/drums.mp3",
+      "bass": "/audio/ba8f3a61/bass.mp3",
+      "other": "/audio/ba8f3a61/other.mp3",
+      "vocals": "/audio/ba8f3a61/vocals.mp3"
+    }
+  },
+  {
+    "id": "09fee9f9",
+    "title": "LOVE SCENARIO",
+    "artist": "iKON",
+    "stems": {
+      "drums": "/audio/09fee9f9/drums.mp3",
+      "bass": "/audio/09fee9f9/bass.mp3",
+      "other": "/audio/09fee9f9/other.mp3",
+      "vocals": "/audio/09fee9f9/vocals.mp3"
+    }
+  },
+  {
+    "id": "22dcdd9e",
+    "title": "FAKE LOVE",
+    "artist": "BTS",
+    "stems": {
+      "drums": "/audio/22dcdd9e/drums.mp3",
+      "bass": "/audio/22dcdd9e/bass.mp3",
+      "other": "/audio/22dcdd9e/other.mp3",
+      "vocals": "/audio/22dcdd9e/vocals.mp3"
+    }
+  },
+  {
+    "id": "210f3b34",
+    "title": "BBIBBI",
+    "artist": "IU",
+    "stems": {
+      "drums": "/audio/210f3b34/drums.mp3",
+      "bass": "/audio/210f3b34/bass.mp3",
+      "other": "/audio/210f3b34/other.mp3",
+      "vocals": "/audio/210f3b34/vocals.mp3"
+    }
+  },
+  {
+    "id": "93e6893d",
+    "title": "DARARI",
+    "artist": "TREASURE",
+    "stems": {
+      "drums": "/audio/93e6893d/drums.mp3",
+      "bass": "/audio/93e6893d/bass.mp3",
+      "other": "/audio/93e6893d/other.mp3",
+      "vocals": "/audio/93e6893d/vocals.mp3"
+    }
+  },
+  {
+    "id": "8b53c3d8",
+    "title": "Attention",
+    "artist": "NewJeans",
+    "stems": {
+      "drums": "/audio/8b53c3d8/drums.mp3",
+      "bass": "/audio/8b53c3d8/bass.mp3",
+      "other": "/audio/8b53c3d8/other.mp3",
+      "vocals": "/audio/8b53c3d8/vocals.mp3"
+    }
+  },
+  {
+    "id": "35565fda",
+    "title": "Ditto",
+    "artist": "NewJeans",
+    "stems": {
+      "drums": "/audio/35565fda/drums.mp3",
+      "bass": "/audio/35565fda/bass.mp3",
+      "other": "/audio/35565fda/other.mp3",
+      "vocals": "/audio/35565fda/vocals.mp3"
+    }
+  },
+  {
+    "id": "d9339378",
+    "title": "OMG",
+    "artist": "NewJeans",
+    "stems": {
+      "drums": "/audio/d9339378/drums.mp3",
+      "bass": "/audio/d9339378/bass.mp3",
+      "other": "/audio/d9339378/other.mp3",
+      "vocals": "/audio/d9339378/vocals.mp3"
+    }
+  },
+  {
+    "id": "d3c40d46",
+    "title": "GO!",
+    "artist": "CORTIS",
+    "stems": {
+      "drums": "/audio/d3c40d46/drums.mp3",
+      "bass": "/audio/d3c40d46/bass.mp3",
+      "other": "/audio/d3c40d46/other.mp3",
+      "vocals": "/audio/d3c40d46/vocals.mp3"
+    }
+  },
+  {
+    "id": "ea80cc97",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga,Bruno Mars",
+    "stems": {
+      "drums": "/audio/ea80cc97/drums.mp3",
+      "bass": "/audio/ea80cc97/bass.mp3",
+      "other": "/audio/ea80cc97/other.mp3",
+      "vocals": "/audio/ea80cc97/vocals.mp3"
+    }
+  },
+  {
+    "id": "31510bc7",
+    "title": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "stems": {
+      "drums": "/audio/31510bc7/drums.mp3",
+      "bass": "/audio/31510bc7/bass.mp3",
+      "other": "/audio/31510bc7/other.mp3",
+      "vocals": "/audio/31510bc7/vocals.mp3"
+    }
+  },
+  {
+    "id": "1424ef85",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "stems": {
+      "drums": "/audio/1424ef85/drums.mp3",
+      "bass": "/audio/1424ef85/bass.mp3",
+      "other": "/audio/1424ef85/other.mp3",
+      "vocals": "/audio/1424ef85/vocals.mp3"
+    }
+  },
+  {
+    "id": "68aa483c",
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "stems": {
+      "drums": "/audio/68aa483c/drums.mp3",
+      "bass": "/audio/68aa483c/bass.mp3",
+      "other": "/audio/68aa483c/other.mp3",
+      "vocals": "/audio/68aa483c/vocals.mp3"
+    }
+  },
+  {
+    "id": "12f689cf",
+    "title": "DtMF",
+    "artist": "Bad Bunny",
+    "stems": {
+      "drums": "/audio/12f689cf/drums.mp3",
+      "bass": "/audio/12f689cf/bass.mp3",
+      "other": "/audio/12f689cf/other.mp3",
+      "vocals": "/audio/12f689cf/vocals.mp3"
+    }
+  },
+  {
+    "id": "aa35704b",
+    "title": "End of Beginning",
+    "artist": "Djo",
+    "stems": {
+      "drums": "/audio/aa35704b/drums.mp3",
+      "bass": "/audio/aa35704b/bass.mp3",
+      "other": "/audio/aa35704b/other.mp3",
+      "vocals": "/audio/aa35704b/vocals.mp3"
+    }
+  },
+  {
+    "id": "c6241da9",
+    "title": "Man I Need",
+    "artist": "Olivia Dean",
+    "stems": {
+      "drums": "/audio/c6241da9/drums.mp3",
+      "bass": "/audio/c6241da9/bass.mp3",
+      "other": "/audio/c6241da9/other.mp3",
+      "vocals": "/audio/c6241da9/vocals.mp3"
+    }
+  },
+  {
+    "id": "282c9312",
+    "title": "APT.",
+    "artist": "ROSÉ,Bruno Mars",
+    "stems": {
+      "drums": "/audio/282c9312/drums.mp3",
+      "bass": "/audio/282c9312/bass.mp3",
+      "other": "/audio/282c9312/other.mp3",
+      "vocals": "/audio/282c9312/vocals.mp3"
+    }
+  },
+  {
+    "id": "620e1f0d",
+    "title": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "stems": {
+      "drums": "/audio/620e1f0d/drums.mp3",
+      "bass": "/audio/620e1f0d/bass.mp3",
+      "other": "/audio/620e1f0d/other.mp3",
+      "vocals": "/audio/620e1f0d/vocals.mp3"
+    }
+  },
+  {
+    "id": "437d475b",
+    "title": "DAISIES",
+    "artist": "Justin Bieber",
+    "stems": {
+      "drums": "/audio/437d475b/drums.mp3",
+      "bass": "/audio/437d475b/bass.mp3",
+      "other": "/audio/437d475b/other.mp3",
+      "vocals": "/audio/437d475b/vocals.mp3"
+    }
+  },
+  {
+    "id": "fb8c41cc",
+    "title": "STAY (with Justin Bieber)",
+    "artist": "The Kid LAROI,Justin Bieber",
+    "stems": {
+      "drums": "/audio/fb8c41cc/drums.mp3",
+      "bass": "/audio/fb8c41cc/bass.mp3",
+      "other": "/audio/fb8c41cc/other.mp3",
+      "vocals": "/audio/fb8c41cc/vocals.mp3"
+    }
+  },
+  {
+    "id": "b4206d34",
+    "title": "Beautiful Things",
+    "artist": "Benson Boone",
+    "stems": {
+      "drums": "/audio/b4206d34/drums.mp3",
+      "bass": "/audio/b4206d34/bass.mp3",
+      "other": "/audio/b4206d34/other.mp3",
+      "vocals": "/audio/b4206d34/vocals.mp3"
+    }
+  },
+  {
+    "id": "dff8c857",
+    "title": "Too Sweet",
+    "artist": "Hozier",
+    "stems": {
+      "drums": "/audio/dff8c857/drums.mp3",
+      "bass": "/audio/dff8c857/bass.mp3",
+      "other": "/audio/dff8c857/other.mp3",
+      "vocals": "/audio/dff8c857/vocals.mp3"
+    }
+  },
+  {
+    "id": "4ae28eca",
+    "title": "Self Aware",
+    "artist": "Temper City",
+    "stems": {
+      "drums": "/audio/4ae28eca/drums.mp3",
+      "bass": "/audio/4ae28eca/bass.mp3",
+      "other": "/audio/4ae28eca/other.mp3",
+      "vocals": "/audio/4ae28eca/vocals.mp3"
+    }
+  },
+  {
+    "id": "2b5786c1",
+    "title": "Kiss Me More (feat. SZA)",
+    "artist": "Doja Cat,SZA",
+    "stems": {
+      "drums": "/audio/2b5786c1/drums.mp3",
+      "bass": "/audio/2b5786c1/bass.mp3",
+      "other": "/audio/2b5786c1/other.mp3",
+      "vocals": "/audio/2b5786c1/vocals.mp3"
+    }
+  },
+  {
+    "id": "b232cde8",
+    "title": "Kill Bill",
+    "artist": "SZA",
+    "stems": {
+      "drums": "/audio/b232cde8/drums.mp3",
+      "bass": "/audio/b232cde8/bass.mp3",
+      "other": "/audio/b232cde8/other.mp3",
+      "vocals": "/audio/b232cde8/vocals.mp3"
+    }
+  },
+  {
+    "id": "8f412e0e",
+    "title": "The Fate of Ophelia",
+    "artist": "Taylor Swift",
+    "stems": {
+      "drums": "/audio/8f412e0e/drums.mp3",
+      "bass": "/audio/8f412e0e/bass.mp3",
+      "other": "/audio/8f412e0e/other.mp3",
+      "vocals": "/audio/8f412e0e/vocals.mp3"
+    }
+  },
+  {
+    "id": "94e38443",
+    "title": "Bones",
+    "artist": "Imagine Dragons",
+    "stems": {
+      "drums": "/audio/94e38443/drums.mp3",
+      "bass": "/audio/94e38443/bass.mp3",
+      "other": "/audio/94e38443/other.mp3",
+      "vocals": "/audio/94e38443/vocals.mp3"
+    }
+  },
+  {
+    "id": "d6266e44",
+    "title": "Gabriela",
+    "artist": "KATSEYE",
+    "stems": {
+      "drums": "/audio/d6266e44/drums.mp3",
+      "bass": "/audio/d6266e44/bass.mp3",
+      "other": "/audio/d6266e44/other.mp3",
+      "vocals": "/audio/d6266e44/vocals.mp3"
+    }
+  },
+  {
+    "id": "5cdf7f78",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "stems": {
+      "drums": "/audio/5cdf7f78/drums.mp3",
+      "bass": "/audio/5cdf7f78/bass.mp3",
+      "other": "/audio/5cdf7f78/other.mp3",
+      "vocals": "/audio/5cdf7f78/vocals.mp3"
+    }
+  },
+  {
+    "id": "beb24959",
+    "title": "Water",
+    "artist": "Tyla",
+    "stems": {
+      "drums": "/audio/beb24959/drums.mp3",
+      "bass": "/audio/beb24959/bass.mp3",
+      "other": "/audio/beb24959/other.mp3",
+      "vocals": "/audio/beb24959/vocals.mp3"
+    }
+  },
+  {
+    "id": "64abdd60",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "stems": {
+      "drums": "/audio/64abdd60/drums.mp3",
+      "bass": "/audio/64abdd60/bass.mp3",
+      "other": "/audio/64abdd60/other.mp3",
+      "vocals": "/audio/64abdd60/vocals.mp3"
+    }
+  },
+  {
+    "id": "8f73a909",
+    "title": "Peaches (feat. Daniel Caesar & Giveon)",
+    "artist": "Justin Bieber,Daniel Caesar,GIVĒON",
+    "stems": {
+      "drums": "/audio/8f73a909/drums.mp3",
+      "bass": "/audio/8f73a909/bass.mp3",
+      "other": "/audio/8f73a909/other.mp3",
+      "vocals": "/audio/8f73a909/vocals.mp3"
+    }
+  },
+  {
+    "id": "4af2be7d",
+    "title": "INDUSTRY BABY (feat. Jack Harlow)",
+    "artist": "Lil Nas X,Jack Harlow",
+    "stems": {
+      "drums": "/audio/4af2be7d/drums.mp3",
+      "bass": "/audio/4af2be7d/bass.mp3",
+      "other": "/audio/4af2be7d/other.mp3",
+      "vocals": "/audio/4af2be7d/vocals.mp3"
+    }
+  }
+]
