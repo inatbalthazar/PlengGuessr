@@ -418,3 +418,61 @@ body::before {
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.15); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: rgba(255, 255, 255, 0.25); }
+
+/* ---- Vinyl & Cover Art Styles --------------------------- */
+.vinyl-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.vinyl-disc {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #334155 0%, #0f172a 70%, #020617 100%);
+  border: 4px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5), inset 0 0 0 12px rgba(255, 255, 255, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.vinyl-disc.playing {
+  animation: spin 6s linear infinite;
+}
+
+.vinyl-cover-blur {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(12px) brightness(0.6);
+  transform: scale(1.2);
+}
+
+.vinyl-center-hole {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #0f172a;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  z-index: 2;
+}
+
+.album-cover-revealed {
+  width: 160px;
+  height: 160px;
+  border-radius: 16px;
+  overflow: hidden;
+  margin: 0 auto 1.25rem;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4), 0 0 0 2px rgba(255, 255, 255, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.album-cover-revealed:hover {
+  transform: scale(1.04);
+}

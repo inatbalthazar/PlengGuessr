@@ -38,6 +38,7 @@ export default function SongTable({ songs, onDelete }) {
         <thead>
           <tr>
             <th style={{ width: 36 }}>#</th>
+            <th style={{ width: 50 }}>ปก</th>
             <th>ชื่อเพลง</th>
             <th>ศิลปิน</th>
             <th>พรีวิว Stem</th>
@@ -48,6 +49,24 @@ export default function SongTable({ songs, onDelete }) {
           {songs.map((song, idx) => (
             <tr key={song.id}>
               <td style={{ color: 'var(--text-muted)' }}>{idx + 1}</td>
+              <td>
+                <div style={{
+                  width: 40, height: 40, borderRadius: 8, overflow: 'hidden',
+                  background: 'rgba(255, 255, 255, 0.06)', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  border: '1px solid rgba(255, 255, 255, 0.1)'
+                }}>
+                  {song.cover_url ? (
+                    <img
+                      src={song.cover_url}
+                      alt={song.title}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      onError={(e) => { e.target.style.display = 'none'; }}
+                    />
+                  ) : (
+                    <span style={{ fontSize: '1.1rem' }}>🎵</span>
+                  )}
+                </div>
+              </td>
               <td style={{ fontWeight: 600 }}>{song.title}</td>
               <td style={{ color: 'var(--text-secondary)' }}>{song.artist}</td>
               <td>

@@ -25,6 +25,25 @@ def save_songs(songs: List[Dict[str, Any]]) -> None:
 
 
 import re
+import urllib.request
+import urllib.parse
+
+def fetch_itunes_cover(artist: str, title: str) -> str:
+    """Fetch high-res album cover URL from iTunes Search API (returns empty string if unavailable)."""
+    query = f"{artist} {title}".strip()
+    url = f"https://itunes.apple.com/search?term={urllib.parse.quote(query)}&entity=song&limit=1"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+    try:
+        with urllib.request.urlopen(req, timeout=5) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            results = data.get("results", [])
+            if results and "artworkUrl100" in results[0]:
+                art = results[0]["artworkUrl100"]
+                return art.replace("100x100bb", "600x600bb")
+    except Exception:
+        pass
+    return ""
+
 
 def normalize_key(artist: str, title: str) -> tuple[str, str]:
     norm_a = re.sub(r"[^a-zA-Z0-9ก-๙]", "", artist or "").lower()
@@ -38,10 +57,17 @@ def add_song(song: Dict[str, Any]) -> None:
     target_key = normalize_key(song.get("artist", ""), song.get("title", ""))
     target_id = song.get("id")
 
+    # Auto fetch cover URL if missing
+    if not song.get("cover_url"):
+        song["cover_url"] = fetch_itunes_cover(song.get("artist", ""), song.get("title", ""))
+
     updated = False
     for i, s in enumerate(songs):
         s_key = normalize_key(s.get("artist", ""), s.get("title", ""))
         if s.get("id") == target_id or (s_key[0] and s_key[1] and s_key == target_key):
+            # Preserve existing cover if not provided
+            if not song.get("cover_url") and s.get("cover_url"):
+                song["cover_url"] = s["cover_url"]
             songs[i] = song
             updated = True
             break

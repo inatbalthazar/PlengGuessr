@@ -358,6 +358,23 @@ export default function GamePlayer() {
       {/* ── Active Game View ────────────────────────────────────── */}
       {songLoaded && !isLoading && (
         <>
+          {/* Vinyl Disc Animation */}
+          <div className="vinyl-container">
+            <div className={`vinyl-disc ${isPlaying ? 'playing' : ''}`}>
+              <div className="vinyl-center-hole" />
+              {selectedSong?.cover_url ? (
+                <img
+                  src={selectedSong.cover_url}
+                  alt="Album Cover"
+                  className="vinyl-cover-blur"
+                  style={{ filter: revealed ? 'none' : 'blur(14px) brightness(0.5)' }}
+                />
+              ) : (
+                <span style={{ fontSize: '2rem' }}>🎵</span>
+              )}
+            </div>
+          </div>
+
           {/* Stem Cards — Bass is 1st Card! */}
           <div className="stems-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '1rem', marginBottom: '1.5rem' }}>
             {STEM_ORDER.map(stem => (
@@ -476,6 +493,17 @@ export default function GamePlayer() {
                     <div style={{ marginTop: '0.5rem', fontSize: '1.2rem', fontWeight: 700, color: 'gold' }}>
                       +{guessResult.points} คะแนน 🏆
                     </div>
+                  </div>
+                )}
+
+                {selectedSong?.cover_url && (
+                  <div className="album-cover-revealed">
+                    <img
+                      src={selectedSong.cover_url}
+                      alt={selectedSong.title}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      onError={(e) => { e.target.style.display = 'none'; }}
+                    />
                   </div>
                 )}
 
