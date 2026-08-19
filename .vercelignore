@@ -1,0 +1,10 @@
+.venv/
+backend/
+batch_process.py
+create_playlists.py
+enrich_covers.py
+enrich_deezer.py
+requirements.txt
+Procfile
+render.yaml
+playlist.txt
