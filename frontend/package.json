@@ -7,7 +7,7 @@
     "copy-json": "node -e \"const fs=require('fs'); if(fs.existsSync('../songs.json')) fs.copyFileSync('../songs.json','./public/songs.json'); if(fs.existsSync('../playlists.json')) fs.copyFileSync('../playlists.json','./public/playlists.json');\"",
     "prebuild": "npm run copy-json",
     "dev": "npm run copy-json && vite",
-    "build": "npm run copy-json && vite build",
+    "build": "npm run copy-json && npx vite build",
     "preview": "vite preview"
   },
   "dependencies": {
