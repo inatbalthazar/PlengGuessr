@@ -29,13 +29,14 @@
    * **Framework preset**: `Vite` (หรือ None)
    * **Build command**: `cd frontend && npm install && npm run build`
    * **Build output directory**: `frontend/dist`
+   * **Deploy command**: **ปล่อยว่างไว้ (Leave blank)** *(ไม่ต้องใส่ `wrangler pages deploy` เพราะ Cloudflare จะ Deploy โฟลเดอร์ `frontend/dist` ให้อัตโนมัติหลังจาก Build เสร็จ)*
 5. กด **Save and Deploy** — รอประมาณ 1–2 นาที เว็บจะพร้อมใช้งานออนไลน์ทันที!
 
-> 💡 **หาก Deploy ผ่าน Wrangler CLI (Build & Deploy Command ใน Cloudflare Pages)**:
-> - **Build Command**: `cd frontend && npm install && npm run build`
-> - **Deploy Command**: `npx wrangler pages deploy frontend/dist --project-name plengguessr2`
+> ⚠️ **หมายเหตุสำคัญ**:
+> หากไปที่ **Settings > Build & deployments** ใน Cloudflare Pages:
+> - ช่อง **Deploy command** ห้ามใส่ `npx wrangler pages deploy ...` เด็ดขาด (มิฉะนั้นจะเกิด Authentication error [code: 10000])
+> - `npx wrangler pages deploy frontend/dist` มีไว้สำหรับสั่ง Deploy จากเครื่องของคุณ (Local Terminal) หรือ CI/CD ภายนอกเท่านั้น
 
----
 
 ### วิธีที่ 2: Deploy ผ่าน Vercel
 
