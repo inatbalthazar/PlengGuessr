@@ -31,6 +31,10 @@
    * **Build output directory**: `frontend/dist`
 5. กด **Save and Deploy** — รอประมาณ 1–2 นาที เว็บจะพร้อมใช้งานออนไลน์ทันที!
 
+> 💡 **หาก Deploy ผ่าน Wrangler CLI (Build & Deploy Command ใน Cloudflare Pages)**:
+> - **Build Command**: `cd frontend && npm install && npm run build`
+> - **Deploy Command**: `npx wrangler pages deploy frontend/dist --project-name plengguessr2`
+
 ---
 
 ### วิธีที่ 2: Deploy ผ่าน Vercel
