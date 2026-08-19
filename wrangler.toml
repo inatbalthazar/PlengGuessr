@@ -1,0 +1,5 @@
+name = "plengguessr"
+compatibility_date = "2024-09-25"
+
+# Serve static assets from frontend/dist as a Single Page App (SPA)
+assets = { directory = "./frontend/dist", html_handling = "single-page-app" }
