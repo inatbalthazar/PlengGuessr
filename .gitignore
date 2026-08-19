@@ -12,6 +12,8 @@ dist-ssr/
 frontend/dist/
 build/
 *.egg-info/
+frontend/public/songs.json
+frontend/public/playlists.json
 
 # Python Cache & Artifacts
 __pycache__/

@@ -67,8 +67,15 @@ export default function Admin() {
   const fetchSongs = useCallback(async () => {
     if (!isAuthenticated) return;
     try {
-      const res = await fetch('/api/songs');
-      const data = await res.json();
+      let data;
+      try {
+        const res = await fetch('/api/songs');
+        if (res.ok) data = await res.json();
+      } catch {}
+      if (!data) {
+        const resStatic = await fetch('/songs.json');
+        if (resStatic.ok) data = await resStatic.json();
+      }
       setSongs(data || []);
     } catch {}
     setLoadingSongs(false);
@@ -77,8 +84,15 @@ export default function Admin() {
   const fetchPlaylists = useCallback(async () => {
     if (!isAuthenticated) return;
     try {
-      const res = await fetch('/api/custom-playlists');
-      const data = await res.json();
+      let data;
+      try {
+        const res = await fetch('/api/custom-playlists');
+        if (res.ok) data = await res.json();
+      } catch {}
+      if (!data) {
+        const resStatic = await fetch('/playlists.json');
+        if (resStatic.ok) data = await resStatic.json();
+      }
       setPlaylists(data || []);
     } catch {}
   }, [isAuthenticated]);
@@ -369,6 +383,11 @@ export default function Admin() {
 
       {activeTab === 'songs' ? (
         <>
+          {/* Static Deployment Helper Banner */}
+          <div className="alert alert-info" style={{ marginBottom: '1.25rem', background: 'rgba(99, 102, 241, 0.1)', borderColor: 'rgba(99, 102, 241, 0.3)', color: 'var(--text-primary)' }}>
+            💡 <strong>วิธีเพิ่มเพลงบนเว็บออนไลน์ (Static Deployment):</strong> เพิ่มรายชื่อเพลงใน <code>playlist.txt</code> แล้วรัน <code>python batch_process.py</code> และ <code>python create_playlists.py</code> บนเครื่องของคุณ จากนั้นสั่ง <code>git push</code> ระบบ Cloudflare Pages / Vercel จะอัปเดตเพลงใหม่ให้อัตโนมัติ!
+          </div>
+
           {/* ── Add Song Form ─────────────────────────────────────────── */}
           <div className="card" style={{ marginBottom: '1.75rem' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '1rem' }}>

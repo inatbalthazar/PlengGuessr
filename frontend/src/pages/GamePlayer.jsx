@@ -86,12 +86,17 @@ export default function GamePlayer() {
     toggleMute, unmuteAll,
   } = useAudioEngine();
 
-  // ---- Load songs & playlists -------------------------------------------
+  // ---- Load songs & playlists (Supports both API & Static Deployment) ---
   useEffect(() => {
-    Promise.all([
-      fetch('/api/songs').then(r => r.json()),
-      fetch('/api/custom-playlists').then(r => r.json()),
-    ])
+    const fetchSongs = fetch('/api/songs')
+      .then(r => r.ok ? r.json() : Promise.reject())
+      .catch(() => fetch('/songs.json').then(r => r.json()).catch(() => []));
+
+    const fetchPlaylists = fetch('/api/custom-playlists')
+      .then(r => r.ok ? r.json() : Promise.reject())
+      .catch(() => fetch('/playlists.json').then(r => r.json()).catch(() => []));
+
+    Promise.all([fetchSongs, fetchPlaylists])
       .then(([songsData, playlistsData]) => {
         setAllSongs(songsData || []);
         setPlaylists(playlistsData || []);
